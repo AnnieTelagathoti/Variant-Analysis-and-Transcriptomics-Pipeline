@@ -1,0 +1,3 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	SRR2584863_1	/home/taspa/bioinfo_project/Variant-Analysis-and-Transcriptomics-Pipeline/data/raw/SRR2584863_1_fastqc.zip
+FastQC	all_sections	SRR2584863_2	/home/taspa/bioinfo_project/Variant-Analysis-and-Transcriptomics-Pipeline/data/raw/SRR2584863_2_fastqc.zip
