@@ -1,6 +1,6 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
-*.py[codz]
+www.linkedin.com/in/annie-telagathoti*.py[codz]
 *$py.class
 
 # C extensions
@@ -218,3 +218,20 @@ __marimo__/
 .streamlit/secrets.toml
 *.fastq.gz
 *.fastq.gz
+
+#Bioinformatics Large files
+*.fastq.gz
+*.fq.gz
+*.bam
+*.sam
+*.vcf
+*.vcf.gz
+
+# Reference genomes
+*.fa
+*.fasta
+*.fa.gz
+
+# Large project folders
+data/
+results/
