@@ -1,0 +1,269 @@
+##fileformat=VCFv4.2
+##FILTER=<ID=PASS,Description="All filters passed">
+##bcftoolsVersion=1.23.1+htslib-1.23.1
+##bcftoolsCommand=mpileup -f data/reference/GRCh38_full.fa -Ou -o results/variants/raw.bcf results/bam/sample_full_GRCh38_sorted.bam
+##reference=file://data/reference/GRCh38_full.fa
+##contig=<ID=1,length=248956422>
+##contig=<ID=10,length=133797422>
+##contig=<ID=11,length=135086622>
+##contig=<ID=12,length=133275309>
+##contig=<ID=13,length=114364328>
+##contig=<ID=14,length=107043718>
+##contig=<ID=15,length=101991189>
+##contig=<ID=16,length=90338345>
+##contig=<ID=17,length=83257441>
+##contig=<ID=18,length=80373285>
+##contig=<ID=19,length=58617616>
+##contig=<ID=2,length=242193529>
+##contig=<ID=20,length=64444167>
+##contig=<ID=21,length=46709983>
+##contig=<ID=22,length=50818468>
+##contig=<ID=3,length=198295559>
+##contig=<ID=4,length=190214555>
+##contig=<ID=5,length=181538259>
+##contig=<ID=6,length=170805979>
+##contig=<ID=7,length=159345973>
+##contig=<ID=8,length=145138636>
+##contig=<ID=9,length=138394717>
+##contig=<ID=MT,length=16569>
+##contig=<ID=X,length=156040895>
+##contig=<ID=Y,length=57227415>
+##contig=<ID=KI270728.1,length=1872759>
+##contig=<ID=KI270727.1,length=448248>
+##contig=<ID=KI270442.1,length=392061>
+##contig=<ID=KI270729.1,length=280839>
+##contig=<ID=GL000225.1,length=211173>
+##contig=<ID=KI270743.1,length=210658>
+##contig=<ID=GL000008.2,length=209709>
+##contig=<ID=GL000009.2,length=201709>
+##contig=<ID=KI270747.1,length=198735>
+##contig=<ID=KI270722.1,length=194050>
+##contig=<ID=GL000194.1,length=191469>
+##contig=<ID=KI270742.1,length=186739>
+##contig=<ID=GL000205.2,length=185591>
+##contig=<ID=GL000195.1,length=182896>
+##contig=<ID=KI270736.1,length=181920>
+##contig=<ID=KI270733.1,length=179772>
+##contig=<ID=GL000224.1,length=179693>
+##contig=<ID=GL000219.1,length=179198>
+##contig=<ID=KI270719.1,length=176845>
+##contig=<ID=GL000216.2,length=176608>
+##contig=<ID=KI270712.1,length=176043>
+##contig=<ID=KI270706.1,length=175055>
+##contig=<ID=KI270725.1,length=172810>
+##contig=<ID=KI270744.1,length=168472>
+##contig=<ID=KI270734.1,length=165050>
+##contig=<ID=GL000213.1,length=164239>
+##contig=<ID=GL000220.1,length=161802>
+##contig=<ID=KI270715.1,length=161471>
+##contig=<ID=GL000218.1,length=161147>
+##contig=<ID=KI270749.1,length=158759>
+##contig=<ID=KI270741.1,length=157432>
+##contig=<ID=GL000221.1,length=155397>
+##contig=<ID=KI270716.1,length=153799>
+##contig=<ID=KI270731.1,length=150754>
+##contig=<ID=KI270751.1,length=150742>
+##contig=<ID=KI270750.1,length=148850>
+##contig=<ID=KI270519.1,length=138126>
+##contig=<ID=GL000214.1,length=137718>
+##contig=<ID=KI270708.1,length=127682>
+##contig=<ID=KI270730.1,length=112551>
+##contig=<ID=KI270438.1,length=112505>
+##contig=<ID=KI270737.1,length=103838>
+##contig=<ID=KI270721.1,length=100316>
+##contig=<ID=KI270738.1,length=99375>
+##contig=<ID=KI270748.1,length=93321>
+##contig=<ID=KI270435.1,length=92983>
+##contig=<ID=GL000208.1,length=92689>
+##contig=<ID=KI270538.1,length=91309>
+##contig=<ID=KI270756.1,length=79590>
+##contig=<ID=KI270739.1,length=73985>
+##contig=<ID=KI270757.1,length=71251>
+##contig=<ID=KI270709.1,length=66860>
+##contig=<ID=KI270746.1,length=66486>
+##contig=<ID=KI270753.1,length=62944>
+##contig=<ID=KI270589.1,length=44474>
+##contig=<ID=KI270726.1,length=43739>
+##contig=<ID=KI270735.1,length=42811>
+##contig=<ID=KI270711.1,length=42210>
+##contig=<ID=KI270745.1,length=41891>
+##contig=<ID=KI270714.1,length=41717>
+##contig=<ID=KI270732.1,length=41543>
+##contig=<ID=KI270713.1,length=40745>
+##contig=<ID=KI270754.1,length=40191>
+##contig=<ID=KI270710.1,length=40176>
+##contig=<ID=KI270717.1,length=40062>
+##contig=<ID=KI270724.1,length=39555>
+##contig=<ID=KI270720.1,length=39050>
+##contig=<ID=KI270723.1,length=38115>
+##contig=<ID=KI270718.1,length=38054>
+##contig=<ID=KI270317.1,length=37690>
+##contig=<ID=KI270740.1,length=37240>
+##contig=<ID=KI270755.1,length=36723>
+##contig=<ID=KI270707.1,length=32032>
+##contig=<ID=KI270579.1,length=31033>
+##contig=<ID=KI270752.1,length=27745>
+##contig=<ID=KI270512.1,length=22689>
+##contig=<ID=KI270322.1,length=21476>
+##contig=<ID=GL000226.1,length=15008>
+##contig=<ID=KI270311.1,length=12399>
+##contig=<ID=KI270366.1,length=8320>
+##contig=<ID=KI270511.1,length=8127>
+##contig=<ID=KI270448.1,length=7992>
+##contig=<ID=KI270521.1,length=7642>
+##contig=<ID=KI270581.1,length=7046>
+##contig=<ID=KI270582.1,length=6504>
+##contig=<ID=KI270515.1,length=6361>
+##contig=<ID=KI270588.1,length=6158>
+##contig=<ID=KI270591.1,length=5796>
+##contig=<ID=KI270522.1,length=5674>
+##contig=<ID=KI270507.1,length=5353>
+##contig=<ID=KI270590.1,length=4685>
+##contig=<ID=KI270584.1,length=4513>
+##contig=<ID=KI270320.1,length=4416>
+##contig=<ID=KI270382.1,length=4215>
+##contig=<ID=KI270468.1,length=4055>
+##contig=<ID=KI270467.1,length=3920>
+##contig=<ID=KI270362.1,length=3530>
+##contig=<ID=KI270517.1,length=3253>
+##contig=<ID=KI270593.1,length=3041>
+##contig=<ID=KI270528.1,length=2983>
+##contig=<ID=KI270587.1,length=2969>
+##contig=<ID=KI270364.1,length=2855>
+##contig=<ID=KI270371.1,length=2805>
+##contig=<ID=KI270333.1,length=2699>
+##contig=<ID=KI270374.1,length=2656>
+##contig=<ID=KI270411.1,length=2646>
+##contig=<ID=KI270414.1,length=2489>
+##contig=<ID=KI270510.1,length=2415>
+##contig=<ID=KI270390.1,length=2387>
+##contig=<ID=KI270375.1,length=2378>
+##contig=<ID=KI270420.1,length=2321>
+##contig=<ID=KI270509.1,length=2318>
+##contig=<ID=KI270315.1,length=2276>
+##contig=<ID=KI270302.1,length=2274>
+##contig=<ID=KI270518.1,length=2186>
+##contig=<ID=KI270530.1,length=2168>
+##contig=<ID=KI270304.1,length=2165>
+##contig=<ID=KI270418.1,length=2145>
+##contig=<ID=KI270424.1,length=2140>
+##contig=<ID=KI270417.1,length=2043>
+##contig=<ID=KI270508.1,length=1951>
+##contig=<ID=KI270303.1,length=1942>
+##contig=<ID=KI270381.1,length=1930>
+##contig=<ID=KI270529.1,length=1899>
+##contig=<ID=KI270425.1,length=1884>
+##contig=<ID=KI270396.1,length=1880>
+##contig=<ID=KI270363.1,length=1803>
+##contig=<ID=KI270386.1,length=1788>
+##contig=<ID=KI270465.1,length=1774>
+##contig=<ID=KI270383.1,length=1750>
+##contig=<ID=KI270384.1,length=1658>
+##contig=<ID=KI270330.1,length=1652>
+##contig=<ID=KI270372.1,length=1650>
+##contig=<ID=KI270548.1,length=1599>
+##contig=<ID=KI270580.1,length=1553>
+##contig=<ID=KI270387.1,length=1537>
+##contig=<ID=KI270391.1,length=1484>
+##contig=<ID=KI270305.1,length=1472>
+##contig=<ID=KI270373.1,length=1451>
+##contig=<ID=KI270422.1,length=1445>
+##contig=<ID=KI270316.1,length=1444>
+##contig=<ID=KI270340.1,length=1428>
+##contig=<ID=KI270338.1,length=1428>
+##contig=<ID=KI270583.1,length=1400>
+##contig=<ID=KI270334.1,length=1368>
+##contig=<ID=KI270429.1,length=1361>
+##contig=<ID=KI270393.1,length=1308>
+##contig=<ID=KI270516.1,length=1300>
+##contig=<ID=KI270389.1,length=1298>
+##contig=<ID=KI270466.1,length=1233>
+##contig=<ID=KI270388.1,length=1216>
+##contig=<ID=KI270544.1,length=1202>
+##contig=<ID=KI270310.1,length=1201>
+##contig=<ID=KI270412.1,length=1179>
+##contig=<ID=KI270395.1,length=1143>
+##contig=<ID=KI270376.1,length=1136>
+##contig=<ID=KI270337.1,length=1121>
+##contig=<ID=KI270335.1,length=1048>
+##contig=<ID=KI270378.1,length=1048>
+##contig=<ID=KI270379.1,length=1045>
+##contig=<ID=KI270329.1,length=1040>
+##contig=<ID=KI270419.1,length=1029>
+##contig=<ID=KI270336.1,length=1026>
+##contig=<ID=KI270312.1,length=998>
+##contig=<ID=KI270539.1,length=993>
+##contig=<ID=KI270385.1,length=990>
+##contig=<ID=KI270423.1,length=981>
+##contig=<ID=KI270392.1,length=971>
+##contig=<ID=KI270394.1,length=970>
+##ALT=<ID=*,Description="Represents allele(s) other than observed.">
+##INFO=<ID=INDEL,Number=0,Type=Flag,Description="Indicates that the variant is an INDEL.">
+##INFO=<ID=IDV,Number=1,Type=Integer,Description="Maximum number of raw reads supporting an indel">
+##INFO=<ID=IMF,Number=1,Type=Float,Description="Maximum fraction of raw reads supporting an indel">
+##INFO=<ID=DP,Number=1,Type=Integer,Description="Raw read depth">
+##INFO=<ID=VDB,Number=1,Type=Float,Description="Variant Distance Bias for filtering splice-site artefacts in RNA-seq data (bigger is better)",Version="3">
+##INFO=<ID=RPBZ,Number=1,Type=Float,Description="Mann-Whitney U-z test of Read Position Bias (closer to 0 is better)">
+##INFO=<ID=MQBZ,Number=1,Type=Float,Description="Mann-Whitney U-z test of Mapping Quality Bias (closer to 0 is better)">
+##INFO=<ID=BQBZ,Number=1,Type=Float,Description="Mann-Whitney U-z test of Base Quality Bias (closer to 0 is better)">
+##INFO=<ID=MQSBZ,Number=1,Type=Float,Description="Mann-Whitney U-z test of Mapping Quality vs Strand Bias (closer to 0 is better)">
+##INFO=<ID=SCBZ,Number=1,Type=Float,Description="Mann-Whitney U-z test of Soft-Clip Length Bias (closer to 0 is better)">
+##INFO=<ID=SGB,Number=1,Type=Float,Description="Segregation based metric, http://samtools.github.io/bcftools/rd-SegBias.pdf">
+##INFO=<ID=MQ0F,Number=1,Type=Float,Description="Fraction of MQ0 reads (smaller is better)">
+##FORMAT=<ID=PL,Number=G,Type=Integer,Description="List of Phred-scaled genotype likelihoods">
+##FORMAT=<ID=AD,Number=R,Type=Integer,Description="Allelic depths (high-quality bases)">
+##FORMAT=<ID=GT,Number=1,Type=String,Description="Genotype">
+##INFO=<ID=AC,Number=A,Type=Integer,Description="Allele count in genotypes for each ALT allele, in the same order as listed">
+##INFO=<ID=AN,Number=1,Type=Integer,Description="Total number of alleles in called genotypes">
+##INFO=<ID=DP4,Number=4,Type=Integer,Description="Number of high-quality ref-forward , ref-reverse, alt-forward and alt-reverse bases">
+##INFO=<ID=MQ,Number=1,Type=Integer,Description="Average mapping quality">
+##bcftools_callVersion=1.23.1+htslib-1.23.1
+##bcftools_callCommand=call -m -v -Ov -o results/variants/variants.vcf results/variants/raw.bcf; Date=Fri May  1 12:28:17 2026
+##bcftools_filterVersion=1.23.1+htslib-1.23.1
+##bcftools_filterCommand=filter -e 'QUAL<20 || DP<10' -o results/variants/filtered_variants.vcf results/variants/variants.vcf; Date=Fri May  1 12:35:15 2026
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	results/bam/sample_full_GRCh38_sorted.bam
+1	156965520	.	A	G	225.417	PASS	DP=22;VDB=3.54164e-08;SGB=-0.676189;MQSBZ=0.422577;MQ0F=0;AC=2;AN=2;DP4=0,0,4,7;MQ=39	GT:PL:AD	1/1:255,33,0:0,11
+1	197303499	.	T	A	155.416	PASS	DP=12;VDB=0.000496045;SGB=-0.616816;MQSBZ=1.48522;MQ0F=0;AC=2;AN=2;DP4=0,0,5,1;MQ=37	GT:PL:AD	1/1:185,18,0:0,6
+10	45991829	.	T	C	105.876	PASS	DP=10;VDB=0.00187095;SGB=-0.590765;MQSBZ=0;MQ0F=0;AC=2;AN=2;DP4=0,0,2,3;MQ=40	GT:PL:AD	1/1:160,37,25:0,4
+10	54899073	.	T	A	153.416	PASS	DP=12;VDB=0.000411984;SGB=-0.616816;MQSBZ=0;MQ0F=0;AC=2;AN=2;DP4=0,0,1,5;MQ=40	GT:PL:AD	1/1:183,18,0:0,6
+10	91414636	.	T	A	188.416	PASS	DP=10;VDB=0.00169601;SGB=-0.616816;MQSBZ=-1.5;MQ0F=0;AC=2;AN=2;DP4=0,0,2,4;MQ=45	GT:PL:AD	1/1:218,18,0:0,6
+10	105391299	.	G	C	112.415	PASS	DP=10;VDB=0.00187095;SGB=-0.590765;MQSBZ=-1.29099;MQ0F=0;AC=2;AN=2;DP4=0,0,2,3;MQ=31	GT:PL:AD	1/1:142,15,0:0,5
+11	824388	.	A	G	122.415	PASS	DP=11;VDB=0.00179277;SGB=-0.616816;MQSBZ=-1.87867;MQ0F=0;AC=2;AN=2;DP4=0,0,4,2;MQ=30	GT:PL:AD	1/1:152,18,0:0,6
+11	98340385	.	C	T	210.417	PASS	DP=16;VDB=1.33331e-05;SGB=-0.651104;MQSBZ=0;MQ0F=0;AC=2;AN=2;DP4=0,0,5,3;MQ=40	GT:PL:AD	1/1:240,24,0:0,8
+11	120618401	.	A	C	225.417	PASS	DP=14;VDB=7.99767e-05;SGB=-0.636426;MQSBZ=0.178377;MQ0F=0;AC=2;AN=2;DP4=0,0,3,4;MQ=44	GT:PL:AD	1/1:255,21,0:0,7
+11	122867873	.	T	G	225.417	PASS	DP=16;VDB=1.33331e-05;SGB=-0.651104;MQSBZ=0;MQ0F=0;AC=2;AN=2;DP4=0,0,4,4;MQ=45	GT:PL:AD	1/1:255,24,0:0,8
+12	17337533	.	C	G	171.416	PASS	DP=12;VDB=0.000411984;SGB=-0.616816;MQSBZ=0;MQ0F=0;AC=2;AN=2;DP4=0,0,3,3;MQ=40	GT:PL:AD	1/1:201,18,0:0,6
+13	45605467	.	G	C	201.416	PASS	DP=12;VDB=0.00102667;SGB=-0.636426;MQSBZ=-0.427327;MQ0F=0;AC=2;AN=2;DP4=0,0,2,5;MQ=41	GT:PL:AD	1/1:231,21,0:0,7
+14	101437938	.	T	A	179.416	PASS	DP=11;VDB=0.000560625;SGB=-0.616816;MQSBZ=0.311086;MQ0F=0;AC=2;AN=2;DP4=0,0,5,1;MQ=47	GT:PL:AD	1/1:209,18,0:0,6
+15	44747348	.	T	A	168.416	PASS	DP=14;VDB=6.71664e-05;SGB=-0.636426;MQSBZ=0;MQ0F=0;AC=2;AN=2;DP4=0,0,1,6;MQ=40	GT:PL:AD	1/1:198,21,0:0,7
+15	49750465	.	A	G	214.417	PASS	DP=16;VDB=1.33331e-05;SGB=-0.651104;MQSBZ=0;MQ0F=0;AC=2;AN=2;DP4=0,0,3,5;MQ=40	GT:PL:AD	1/1:244,24,0:0,8
+16	13771738	.	T	G	214.417	PASS	DP=16;VDB=2.30147e-05;SGB=-0.651104;MQSBZ=2.25421;MQ0F=0;AC=2;AN=2;DP4=0,0,3,5;MQ=40	GT:PL:AD	1/1:244,24,0:0,8
+16	79754414	.	A	C	205.417	PASS	DP=14;VDB=6.71664e-05;SGB=-0.636426;MQSBZ=-0.632456;MQ0F=0;AC=2;AN=2;DP4=0,0,2,5;MQ=43	GT:PL:AD	1/1:235,21,0:0,7
+17	59386835	.	G	T	225.417	PASS	DP=12;VDB=0.000411984;SGB=-0.616816;MQSBZ=1.54919;MQ0F=0;AC=2;AN=2;DP4=0,0,3,3;MQ=50	GT:PL:AD	1/1:255,18,0:0,6
+17	72411475	.	A	C	121.415	PASS	DP=10;VDB=4.40819e-06;SGB=-0.670168;MQ0F=0;AC=2;AN=2;DP4=0,0,10,0;MQ=34	GT:PL:AD	1/1:151,30,0:0,10
+2	66567467	.	G	C	161.416	PASS	DP=10;VDB=0.018555;SGB=-0.590765;MQSBZ=0.816497;MQ0F=0;AC=2;AN=2;DP4=0,0,3,2;MQ=44	GT:PL:AD	1/1:191,15,0:0,5
+2	179869463	.	T	A	216.417	PASS	DP=18;VDB=5.958e-05;SGB=-0.662043;MQSBZ=0;MQ0F=0;AC=2;AN=2;DP4=0,0,2,7;MQ=40	GT:PL:AD	1/1:246,27,0:0,9
+2	197876519	.	T	C	217.417	PASS	DP=12;VDB=0.000411984;SGB=-0.616816;MQSBZ=-1;MQ0F=0;AC=2;AN=2;DP4=0,0,3,3;MQ=49	GT:PL:AD	1/1:247,18,0:0,6
+20	29646557	.	C	T	143.416	PASS	DP=10;VDB=0.00187095;SGB=-0.590765;MQSBZ=0;MQ0F=0;AC=2;AN=2;DP4=0,0,3,2;MQ=40	GT:PL:AD	1/1:173,15,0:0,5
+20	59880915	.	A	G	138.416	PASS	DP=10;VDB=0.00248765;SGB=-0.590765;MQSBZ=0.5;MQ0F=0;AC=2;AN=2;DP4=0,0,4,1;MQ=41	GT:PL:AD	1/1:168,15,0:0,5
+3	183496628	.	T	C	171.416	PASS	DP=13;VDB=0.00249078;SGB=-0.636426;MQSBZ=-0.78019;MQ0F=0;AC=2;AN=2;DP4=0,0,3,4;MQ=35	GT:PL:AD	1/1:201,21,0:0,7
+3	195000982	.	G	C	138.416	PASS	DP=10;VDB=0.00187095;SGB=-0.590765;MQSBZ=0;MQ0F=0;AC=2;AN=2;DP4=0,0,2,3;MQ=38	GT:PL:AD	1/1:168,15,0:0,5
+4	33551419	.	C	G	123.415	PASS	DP=10;VDB=0.0104213;SGB=-0.590765;MQSBZ=-1.29099;MQ0F=0;AC=2;AN=2;DP4=0,0,2,3;MQ=34	GT:PL:AD	1/1:153,15,0:0,5
+5	85624325	.	A	T	183.416	PASS	DP=14;VDB=6.71664e-05;SGB=-0.636426;MQSBZ=1.1547;MQ0F=0;AC=2;AN=2;DP4=0,0,3,4;MQ=37	GT:PL:AD	1/1:213,21,0:0,7
+5	99362788	.	T	A	144.416	PASS	DP=10;VDB=0.00187095;SGB=-0.590765;MQSBZ=0;MQ0F=0;AC=2;AN=2;DP4=0,0,2,3;MQ=40	GT:PL:AD	1/1:174,15,0:0,5
+6	112368696	.	T	A	35.4156	PASS	DP=10;VDB=0.00187095;SGB=-0.590765;MQSBZ=-0.57735;MQ0F=0.1;AC=2;AN=2;DP4=0,0,2,3;MQ=13	GT:PL:AD	1/1:65,15,0:0,5
+6	130127600	.	A	T	176.416	PASS	DP=14;VDB=6.71664e-05;SGB=-0.636426;MQSBZ=-0.866025;MQ0F=0;AC=2;AN=2;DP4=0,0,3,4;MQ=36	GT:PL:AD	1/1:206,21,0:0,7
+7	107515803	.	T	C	165.416	PASS	DP=13;VDB=0.000675149;SGB=-0.636426;MQSBZ=0;MQ0F=0;AC=2;AN=2;DP4=0,0,5,2;MQ=35	GT:PL:AD	1/1:195,21,0:0,7
+7	115489035	.	T	A	151.416	PASS	DP=12;VDB=0.000411984;SGB=-0.616816;MQSBZ=-0.447214;MQ0F=0;AC=2;AN=2;DP4=0,0,5,1;MQ=40	GT:PL:AD	1/1:181,18,0:0,6
+8	35246247	.	A	T	110.415	PASS	DP=10;VDB=0.00187095;SGB=-0.590765;MQ0F=0;AC=2;AN=2;DP4=0,0,5,0;MQ=40	GT:PL:AD	1/1:140,15,0:0,5
+8	71299147	.	G	A	141.416	PASS	DP=10;VDB=0.018555;SGB=-0.590765;MQSBZ=-0.30429;MQ0F=0;AC=2;AN=2;DP4=0,0,3,2;MQ=39	GT:PL:AD	1/1:171,15,0:0,5
+8	92618262	.	A	C	225.417	PASS	DP=20;VDB=6.99472e-07;SGB=-0.670168;MQSBZ=0;MQ0F=0;AC=2;AN=2;DP4=0,0,6,4;MQ=40	GT:PL:AD	1/1:255,30,0:0,10
+9	4703299	.	T	C	173.416	PASS	DP=12;VDB=0.000411984;SGB=-0.616816;MQSBZ=1;MQ0F=0;AC=2;AN=2;DP4=0,0,3,3;MQ=40	GT:PL:AD	1/1:203,18,0:0,6
+9	61573695	.	T	G	225.417	PASS	DP=156;VDB=1.80768e-43;SGB=-0.693147;MQSBZ=0.158572;MQ0F=0;AC=2;AN=2;DP4=0,0,36,43;MQ=35	GT:PL:AD	1/1:255,238,0:0,79
+X	4596075	.	A	C	123.415	PASS	DP=10;VDB=0.00187095;SGB=-0.590765;MQSBZ=0;MQ0F=0;AC=2;AN=2;DP4=0,0,3,2;MQ=34	GT:PL:AD	1/1:153,15,0:0,5
+X	44426046	.	T	A	158.416	PASS	DP=12;VDB=0.000411984;SGB=-0.616816;MQSBZ=-0.707107;MQ0F=0;AC=2;AN=2;DP4=0,0,1,5;MQ=40	GT:PL:AD	1/1:188,18,0:0,6
+X	53089698	.	A	T	128.416	PASS	DP=10;VDB=0.00187095;SGB=-0.590765;MQSBZ=-1.22474;MQ0F=0;AC=2;AN=2;DP4=0,0,3,2;MQ=36	GT:PL:AD	1/1:158,15,0:0,5
+X	56521228	.	T	C	225.417	PASS	DP=13;VDB=6.71664e-05;SGB=-0.636426;MQSBZ=0;MQ0F=0;AC=2;AN=2;DP4=0,0,4,3;MQ=50	GT:PL:AD	1/1:255,21,0:0,7
+X	80927174	.	T	A	139.416	PASS	DP=10;VDB=0.00215942;SGB=-0.590765;MQSBZ=0;MQ0F=0;AC=2;AN=2;DP4=0,0,4,1;MQ=42	GT:PL:AD	1/1:169,15,0:0,5
+X	95150801	.	C	T	50.4146	PASS	DP=10;VDB=0.00231828;SGB=-0.590765;MQ0F=0;AC=2;AN=2;DP4=0,0,5,0;MQ=19	GT:PL:AD	1/1:80,15,0:0,5
+Y	16561818	.	C	G	183.416	PASS	DP=12;VDB=0.000394547;SGB=-0.636426;MQSBZ=0;MQ0F=0;AC=2;AN=2;DP4=0,0,3,4;MQ=40	GT:PL:AD	1/1:213,21,0:0,7
