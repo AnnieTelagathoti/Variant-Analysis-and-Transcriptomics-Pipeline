@@ -1,0 +1,7 @@
+Sample	Unique Reads	Duplicate Reads
+SRR2584863_1	1120742.0	432517.0
+SRR2584863_2	1180111.0	373148.0
+sample_R1_paired	972363.0	337451.0
+sample_R1_unpaired	185355.0	13254.0
+sample_R2_paired	968888.0	340926.0
+sample_R2_unpaired	21284.0	415.0

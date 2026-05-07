@@ -224,9 +224,13 @@ __marimo__/
 *.fq.gz
 *.bam
 *.sam
-*.vcf
 *.vcf.gz
-
+*.tar.gz
+*.zip
+*.bai
+*.bcf
+*.csi
+*.sra
 # Reference genomes
 *.fa
 *.fasta
@@ -234,4 +238,4 @@ __marimo__/
 
 # Large project folders
 data/
-results/
+

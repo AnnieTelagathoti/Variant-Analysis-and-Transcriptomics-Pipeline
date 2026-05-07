@@ -1,0 +1,7 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	SRR2584863_1	/home/taspa/bioinfo_project/Variant-Analysis-and-Transcriptomics-Pipeline/results/qc/SRR2584863_1_fastqc.zip
+FastQC	all_sections	SRR2584863_2	/home/taspa/bioinfo_project/Variant-Analysis-and-Transcriptomics-Pipeline/results/qc/SRR2584863_2_fastqc.zip
+FastQC	all_sections	sample_R1_paired	/home/taspa/bioinfo_project/Variant-Analysis-and-Transcriptomics-Pipeline/results/qc/sample_R1_paired_fastqc.zip
+FastQC	all_sections	sample_R1_unpaired	/home/taspa/bioinfo_project/Variant-Analysis-and-Transcriptomics-Pipeline/results/qc/sample_R1_unpaired_fastqc.zip
+FastQC	all_sections	sample_R2_paired	/home/taspa/bioinfo_project/Variant-Analysis-and-Transcriptomics-Pipeline/results/qc/sample_R2_paired_fastqc.zip
+FastQC	all_sections	sample_R2_unpaired	/home/taspa/bioinfo_project/Variant-Analysis-and-Transcriptomics-Pipeline/results/qc/sample_R2_unpaired_fastqc.zip

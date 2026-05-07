@@ -1,0 +1,1608 @@
+CHROM	POS	REF	ALT	Allele	Consequence	IMPACT	SYMBOL
+1	2390320	G	A	A	upstream_gene_variant	MODIFIER	RER1
+1	3273200	A	T	T	intron_variant	MODIFIER	PRDM16
+1	6131565	A	T	T	intron_variant	MODIFIER	CHD5
+1	8523754	T	TCC	CC	intron_variant	MODIFIER	RERE
+1	10105009	G	A	A	intron_variant	MODIFIER	UBE4B
+1	10621139	C	T	T	intron_variant	MODIFIER	PEX14
+1	14640441	G	C	C	intron_variant	MODIFIER	KAZN
+1	16157959	G	A	A	upstream_gene_variant	MODIFIER	EPHA2
+1	16955983	T	G	G	splice_polypyrimidine_tract_variant&intron_variant	LOW	CROCC
+1	18100911	A	C	C	intergenic_variant	MODIFIER	
+1	21687611	T	G	G	intron_variant	MODIFIER	USP48
+1	25475947	T	A	A	intron_variant	MODIFIER	MACO1
+1	25822342	G	A	A	downstream_gene_variant	MODIFIER	SELENON
+1	29216860	C	A	A	intron_variant	MODIFIER	MECR
+1	30342781	A	G	G	intergenic_variant	MODIFIER	
+1	35703051	T	C	C	intergenic_variant	MODIFIER	
+1	38811489	G	T	T	intron_variant&non_coding_transcript_variant	MODIFIER	
+1	42092043	G	A	A	intergenic_variant	MODIFIER	
+1	43584858	T	C	C	intron_variant	MODIFIER	PTPRF
+1	44158099	T	G	G	upstream_gene_variant	MODIFIER	Y_RNA
+1	44316410	A	C	C	intron_variant	MODIFIER	ERI3
+1	52295269	A	C	C	intron_variant	MODIFIER	ZFYVE9
+1	57201318	T	A	A	intron_variant	MODIFIER	DAB1
+1	57201340	A	T	T	intron_variant	MODIFIER	DAB1
+1	59283443	A	G	G	intron_variant&non_coding_transcript_variant	MODIFIER	FGGY-DT
+1	59666356	C	G	G	intron_variant	MODIFIER	FGGY
+1	63100410	T	A	A	intergenic_variant	MODIFIER	
+1	65607206	T	C	C	intron_variant	MODIFIER	LEPR
+1	71849931	A	T	T	intron_variant	MODIFIER	NEGR1
+1	76347698	T	G	G	intron_variant	MODIFIER	ST6GALNAC3
+1	77400700	T	A	A	intron_variant	MODIFIER	AK5
+1	79838773	T	C	C	intergenic_variant	MODIFIER	
+1	82496082	C	T	T	intron_variant&non_coding_transcript_variant	MODIFIER	
+1	83885031	T	A	A	intron_variant	MODIFIER	TTLL7
+1	86325310	T	A	A	upstream_gene_variant	MODIFIER	LINC02795
+1	86491084	A	C	C	intron_variant	MODIFIER	CLCA1
+1	87845250	A	T	T	intron_variant&non_coding_transcript_variant	MODIFIER	PKN2-AS1
+1	88245338	A	C	C	intron_variant&non_coding_transcript_variant	MODIFIER	PKN2-AS1
+1	93748214	G	C	C	intron_variant	MODIFIER	BCAR3
+1	95302183	A	T	T	intergenic_variant	MODIFIER	
+1	95302203	T	A	A	intergenic_variant	MODIFIER	
+1	102233847	G	T	T	intron_variant&non_coding_transcript_variant	MODIFIER	
+1	102233849	T	A	A	intron_variant&non_coding_transcript_variant	MODIFIER	
+1	102262867	G	C	C	intron_variant&non_coding_transcript_variant	MODIFIER	
+1	102306765	G	T	T	intron_variant&non_coding_transcript_variant	MODIFIER	
+1	102735157	C	A	A	intergenic_variant	MODIFIER	
+1	105334400	G	T	T	intergenic_variant	MODIFIER	
+1	105982105	A	G	G	intron_variant&non_coding_transcript_variant	MODIFIER	LINC01677
+1	106639000	T	G	G	intergenic_variant	MODIFIER	
+1	107416718	T	A	A	intron_variant	MODIFIER	NTNG1
+1	107696126	A	C	C	intron_variant&non_coding_transcript_variant	MODIFIER	VAV3
+1	107696147	A	T	T	intron_variant&non_coding_transcript_variant	MODIFIER	VAV3
+1	111655290	A	G	G	intron_variant	MODIFIER	RAP1A
+1	116218001	A	T	T	intergenic_variant	MODIFIER	
+1	118261294	T	G	G	downstream_gene_variant	MODIFIER	RNA5SP56
+1	149206123	A	G	G	intron_variant&non_coding_transcript_variant	MODIFIER	
+1	150044155	T	G	G	downstream_gene_variant	MODIFIER	
+1	151252111	T	A	A	downstream_gene_variant	MODIFIER	PIP5K1A
+1	152675260	C	A	A	upstream_gene_variant	MODIFIER	LCE2C
+1	153126945	C	G	G	intergenic_variant	MODIFIER	
+1	153462787	T	G	G	upstream_gene_variant	MODIFIER	S100A7
+1	154391970	T	A	A	intergenic_variant	MODIFIER	
+1	156881015	A	G	G	intron_variant	MODIFIER	NTRK1
+1	156965514	T	G	G	intron_variant	MODIFIER	ARHGEF11
+1	156965520	A	G	G	intron_variant	MODIFIER	ARHGEF11
+1	158090863	T	G	G	intron_variant	MODIFIER	KIRREL1
+1	160006860	G	C	C	intron_variant	MODIFIER	KCNJ10
+1	161080927	G	C	C	intron_variant	MODIFIER	NECTIN4
+1	161505403	A	G	G	upstream_gene_variant	MODIFIER	FCGR2A
+1	161505409	T	C	C	upstream_gene_variant	MODIFIER	FCGR2A
+1	161793452	A	G	G	intron_variant	MODIFIER	ATF6
+1	162845763	A	T	T	intron_variant&non_coding_transcript_variant	MODIFIER	
+1	164716770	G	C	C	intron_variant	MODIFIER	PBX1
+1	165680553	C	T	T	synonymous_variant	LOW	ALDH9A1
+1	169142143	T	A	A	intron_variant	MODIFIER	NME7
+1	171701539	C	G	G	3_prime_UTR_variant	MODIFIER	VAMP4
+1	177900233	T	A	A	intron_variant&non_coding_transcript_variant	MODIFIER	
+1	186553474	C	G	G	intergenic_variant	MODIFIER	
+1	188879855	T	A	A	intron_variant&non_coding_transcript_variant	MODIFIER	
+1	190231386	T	C	C	intron_variant	MODIFIER	BRINP3
+1	191261729	G	C	C	intergenic_variant	MODIFIER	
+1	193637279	T	G	G	intron_variant&non_coding_transcript_variant	MODIFIER	
+1	194038740	A	C	C	intron_variant&non_coding_transcript_variant	MODIFIER	
+1	195700169	G	C	C	intergenic_variant	MODIFIER	
+1	195816891	A	G	G	intergenic_variant	MODIFIER	
+1	195840422	T	G	G	intergenic_variant	MODIFIER	
+1	196072943	T	C	C	intergenic_variant	MODIFIER	
+1	197303499	T	A	A	intron_variant	MODIFIER	CRB1
+1	202774179	A	C	C	intron_variant	MODIFIER	KDM5B
+1	205935382	C	T	T	intron_variant	MODIFIER	SLC26A9
+1	208380155	C	A	A	intergenic_variant	MODIFIER	
+1	210752687	G	C	C	intron_variant	MODIFIER	KCNH1
+1	212613827	T	G	G	upstream_gene_variant	MODIFIER	ATF3
+1	219226550	T	G	G	upstream_gene_variant	MODIFIER	
+1	221719699	A	C	C	intron_variant	MODIFIER	DUSP10
+1	224645500	C	A	A	intron_variant	MODIFIER	CNIH3
+1	224820474	C	T	T	intron_variant&non_coding_transcript_variant	MODIFIER	
+1	227914558	C	G	G	downstream_gene_variant	MODIFIER	WNT9A
+1	230171854	T	C	C	intron_variant	MODIFIER	GALNT2
+1	235399510	A	C	C	intron_variant	MODIFIER	TBCE
+1	235399513	C	T	T	intron_variant	MODIFIER	TBCE
+1	237281213	T	C	C	intron_variant	MODIFIER	RYR2
+1	237500676	A	T	T	intron_variant	MODIFIER	RYR2
+1	237709480	G	A	A	splice_region_variant&synonymous_variant	LOW	RYR2
+1	238580863	C	G	G	intergenic_variant	MODIFIER	
+1	238632822	T	C	C	intergenic_variant	MODIFIER	
+1	240220031	A	T	T	intron_variant	MODIFIER	FMN2
+1	240726453	G	C	C	intergenic_variant	MODIFIER	
+1	241323861	C	G	G	intron_variant	MODIFIER	RGS7
+1	242200989	T	C	C	intron_variant&NMD_transcript_variant	MODIFIER	PLD5
+10	3312112	C	A	A	intergenic_variant	MODIFIER	
+10	4677893	G	T	T	intron_variant&non_coding_transcript_variant	MODIFIER	MANCR
+10	5316710	T	G	G	intergenic_variant	MODIFIER	
+10	6565104	A	T	T	intron_variant	MODIFIER	PRKCQ
+10	8677385	T	A	A	intergenic_variant	MODIFIER	
+10	10255037	A	G	G	downstream_gene_variant	MODIFIER	CUX2P1
+10	10673808	T	G	G	intergenic_variant	MODIFIER	
+10	12439299	A	T	T	intron_variant	MODIFIER	CAMK1D
+10	12568262	C	G	G	intron_variant	MODIFIER	CAMK1D
+10	13216901	G	T	T	downstream_gene_variant	MODIFIER	UCMA
+10	20362812	T	C	C	intergenic_variant	MODIFIER	
+10	20966345	T	G	G	intron_variant	MODIFIER	NEBL
+10	22389320	C	A	A	splice_region_variant&intron_variant	LOW	SPAG6
+10	23897210	T	A	A	intron_variant	MODIFIER	KIAA1217
+10	25503083	A	G	G	intron_variant	MODIFIER	GPR158
+10	27863224	C	G	G	intron_variant	MODIFIER	ODAD2
+10	31291366	G	C	C	intron_variant&non_coding_transcript_variant	MODIFIER	ZEB1-AS1
+10	31650359	T	G	G	intergenic_variant	MODIFIER	
+10	34702992	A	T	T	intron_variant	MODIFIER	PARD3
+10	36127830	T	TA	A	intergenic_variant	MODIFIER	
+10	44394403	A	C	C	intergenic_variant	MODIFIER	
+10	45991829	T	C	C	intron_variant	MODIFIER	TIMM23
+10	50632615	G	C	C	upstream_gene_variant	MODIFIER	SHQ1P1
+10	50632621	A	T	T	upstream_gene_variant	MODIFIER	SHQ1P1
+10	53811386	C	T	T	intron_variant	MODIFIER	PCDH15
+10	54465565	T	G	G	intron_variant	MODIFIER	PCDH15
+10	54899067	A	C	C	intron_variant	MODIFIER	PCDH15
+10	54899073	T	A	A	intron_variant	MODIFIER	PCDH15
+10	55526008	A	C	C	intron_variant&non_coding_transcript_variant	MODIFIER	
+10	61727341	T	G	G	intron_variant	MODIFIER	CABCOCO1
+10	62639816	G	A	A	upstream_gene_variant	MODIFIER	LINC02929
+10	68901851	A	G	G	intron_variant	MODIFIER	DDX50
+10	70044786	T	G	G	intergenic_variant	MODIFIER	
+10	72059970	A	G	G	3_prime_UTR_variant	MODIFIER	SPOCK2
+10	72059971	A	C	C	3_prime_UTR_variant	MODIFIER	SPOCK2
+10	72466527	G	T	T	intron_variant	MODIFIER	MICU1
+10	80872383	G	C	C	intergenic_variant	MODIFIER	
+10	84089771	C	G	G	intergenic_variant	MODIFIER	
+10	84843221	C	A	A	intergenic_variant	MODIFIER	
+10	85600355	A	T	T	3_prime_UTR_variant	MODIFIER	GRID1
+10	85868856	C	G	G	intron_variant	MODIFIER	GRID1
+10	88456887	A	C	C	intron_variant	MODIFIER	RNLS
+10	88489791	A	G	G	intron_variant	MODIFIER	RNLS
+10	89544775	A	G	G	intron_variant	MODIFIER	SLC16A12
+10	90599870	A	G	G	intron_variant&non_coding_transcript_variant	MODIFIER	LINC02653
+10	91202404	T	A	A	intron_variant	MODIFIER	PCGF5
+10	91315140	A	G	G	intron_variant&non_coding_transcript_variant	MODIFIER	
+10	91414636	T	A	A	intron_variant	MODIFIER	HECTD2
+10	92150052	G	A	A	intron_variant	MODIFIER	CPEB3
+10	95075474	T	A	A	intergenic_variant	MODIFIER	
+10	96303731	C	G	G	upstream_gene_variant	MODIFIER	DNTT
+10	98193755	T	C	C	intron_variant	MODIFIER	R3HCC1L
+10	99321406	G	A	A	intergenic_variant	MODIFIER	
+10	105391299	G	C	C	intergenic_variant	MODIFIER	
+10	106874940	T	C	C	intron_variant	MODIFIER	SORCS1
+10	107642922	T	A	A	intergenic_variant	MODIFIER	
+10	109388630	A	C	C	intergenic_variant	MODIFIER	
+10	110969524	T	G	G	intron_variant	MODIFIER	SHOC2
+10	112486897	A	T	T	intron_variant	MODIFIER	VTI1A
+10	115035131	G	A	A	intergenic_variant	MODIFIER	
+10	121021697	C	T	T	intergenic_variant	MODIFIER	
+10	121713613	C	T	T	non_coding_transcript_exon_variant	MODIFIER	RPS15AP5
+10	123186047	T	A	A	intergenic_variant	MODIFIER	
+10	124625208	G	C	C	intron_variant	MODIFIER	FAM53B
+10	125351997	T	A	A	intergenic_variant	MODIFIER	
+10	126650762	T	A	A	intron_variant	MODIFIER	C10orf90
+10	127808861	G	T	T	intergenic_variant	MODIFIER	
+10	127835624	A	G	G	intergenic_variant	MODIFIER	
+10	132984327	G	C	C	intergenic_variant	MODIFIER	
+10	133203648	C	A	A	intron_variant	MODIFIER	KNDC1
+10	133596401	T	G	G	intron_variant&non_coding_transcript_variant	MODIFIER	
+11	824388	A	G	G	missense_variant	MODERATE	PNPLA2
+11	3009431	G	T	T	intron_variant	MODIFIER	CARS1
+11	3240275	T	A	A	intergenic_variant	MODIFIER	
+11	4904005	A	G	G	intron_variant	MODIFIER	MMP26
+11	4904029	A	G	G	intron_variant	MODIFIER	MMP26
+11	5516653	G	T	T	5_prime_UTR_variant	MODIFIER	UBQLNL
+11	9018692	T	G	G	downstream_gene_variant	MODIFIER	SCUBE2
+11	9336946	C	A	A	intergenic_variant	MODIFIER	
+11	9792547	T	G	G	intron_variant	MODIFIER	SBF2
+11	10582999	A	C	C	intron_variant	MODIFIER	IRAG1
+11	12487061	A	T	T	intron_variant	MODIFIER	PARVA
+11	13324522	A	G	G	intron_variant	MODIFIER	BMAL1
+11	13384649	T	G	G	downstream_gene_variant	MODIFIER	BTBD10
+11	15405180	T	C	C	intergenic_variant	MODIFIER	
+11	17651989	C	G	G	downstream_gene_variant	MODIFIER	OTOG
+11	17953598	T	C	C	intron_variant	MODIFIER	SERGEF
+11	18850137	G	C	C	intergenic_variant	MODIFIER	
+11	20016023	G	A	A	intron_variant	MODIFIER	NAV2
+11	20455484	T	G	G	intron_variant&NMD_transcript_variant	MODIFIER	PRMT3
+11	20505871	A	T	T	intron_variant&NMD_transcript_variant	MODIFIER	PRMT3
+11	21214595	T	G	G	intron_variant	MODIFIER	NELL1
+11	21814900	T	A	A	intron_variant&non_coding_transcript_variant	MODIFIER	ANO5
+11	22741349	C	A	A	intron_variant	MODIFIER	GAS2
+11	23225536	T	A	A	intergenic_variant	MODIFIER	
+11	25236142	G	T	T	intergenic_variant	MODIFIER	
+11	25689678	T	A	A	intergenic_variant	MODIFIER	
+11	26259962	A	C	C	intron_variant&non_coding_transcript_variant	MODIFIER	
+11	28610288	C	G	G	intergenic_variant	MODIFIER	
+11	32068931	G	A	A	intron_variant&non_coding_transcript_variant	MODIFIER	
+11	32827888	T	C	C	upstream_gene_variant	MODIFIER	PRRG4
+11	33566792	T	G	G	intron_variant	MODIFIER	KIAA1549L
+11	34157128	C	G	G	intron_variant	MODIFIER	ABTB2
+11	34157149	T	G	G	intron_variant	MODIFIER	ABTB2
+11	35349568	C	G	G	intron_variant	MODIFIER	SLC1A2
+11	35517629	C	G	G	intron_variant	MODIFIER	PAMR1
+11	36149840	A	T	T	intron_variant	MODIFIER	LDLRAD3
+11	36149843	C	G	G	intron_variant	MODIFIER	LDLRAD3
+11	39331308	T	G	G	intergenic_variant	MODIFIER	
+11	41467913	G	C	C	intergenic_variant	MODIFIER	
+11	42783477	G	C	C	intergenic_variant	MODIFIER	
+11	42823429	A	C	C	intergenic_variant	MODIFIER	
+11	43989563	C	A	A	intron_variant&non_coding_transcript_variant	MODIFIER	
+11	44694677	A	T	T	downstream_gene_variant	MODIFIER	LINC02704
+11	45541072	G	C	C	intron_variant&non_coding_transcript_variant	MODIFIER	
+11	45673337	A	G	G	intergenic_variant	MODIFIER	
+11	45673341	G	A	A	intergenic_variant	MODIFIER	
+11	47003879	T	C	C	intron_variant	MODIFIER	CSTPP1
+11	48094519	A	T	T	intron_variant	MODIFIER	PTPRJ
+11	50300666	A	G	G	intron_variant&non_coding_transcript_variant	MODIFIER	LINC02750
+11	60983406	A	C	C	intron_variant	MODIFIER	CD6
+11	61102597	T	C	C	missense_variant	MODERATE	CD5
+11	63783149	C	G	G	intergenic_variant	MODIFIER	
+11	64403995	G	C	C	intergenic_variant	MODIFIER	
+11	66649017	T	C	C	downstream_gene_variant	MODIFIER	RBM4
+11	67893346	T	C	C	upstream_gene_variant	MODIFIER	RNU6-46P
+11	69459609	A	C	C	intergenic_variant	MODIFIER	
+11	70165517	C	G	G	downstream_gene_variant	MODIFIER	ANO1
+11	71693139	A	C	C	upstream_gene_variant	MODIFIER	SNRPCP14
+11	72550676	T	C	C	downstream_gene_variant	MODIFIER	
+11	73859195	T	C	C	intron_variant	MODIFIER	MRPL48
+11	74423935	A	G	G	intron_variant&non_coding_transcript_variant	MODIFIER	
+11	79642855	A	G	G	intergenic_variant	MODIFIER	
+11	80919635	T	C	C	intergenic_variant	MODIFIER	
+11	82185167	A	G	G	intron_variant&non_coding_transcript_variant	MODIFIER	MIR4300HG
+11	83266335	G	A	A	intron_variant&NMD_transcript_variant	MODIFIER	CCDC90B
+11	83598783	A	G	G	intron_variant	MODIFIER	DLG2
+11	85933279	T	C	C	upstream_gene_variant	MODIFIER	SLC25A1P1
+11	86134327	G	T	T	intergenic_variant	MODIFIER	
+11	86134328	G	A	A	intergenic_variant	MODIFIER	
+11	88373496	G	C	C	intron_variant&non_coding_transcript_variant	MODIFIER	
+11	91689893	T	C	C	intergenic_variant	MODIFIER	
+11	93114103	C	T	T	intergenic_variant	MODIFIER	
+11	94755221	A	C	C	intron_variant	MODIFIER	AMOTL1
+11	96252071	A	T	T	intron_variant	MODIFIER	MAML2
+11	96564442	A	C	C	intergenic_variant	MODIFIER	
+11	97464805	C	G	G	intergenic_variant	MODIFIER	
+11	98340385	C	T	T	intergenic_variant	MODIFIER	
+11	98439798	G	C	C	intergenic_variant	MODIFIER	
+11	100922885	A	G	G	intron_variant	MODIFIER	ARHGAP42
+11	101321897	A	C	C	intergenic_variant	MODIFIER	
+11	102182826	A	G	G	intron_variant	MODIFIER	YAP1
+11	103560501	T	C	C	intergenic_variant	MODIFIER	
+11	105962674	A	G	G	intron_variant	MODIFIER	GRIA4
+11	106244391	A	C	C	intron_variant&non_coding_transcript_variant	MODIFIER	
+11	106452864	G	A	A	intergenic_variant	MODIFIER	
+11	108337378	A	C	C	intron_variant&NMD_transcript_variant	MODIFIER	ATM
+11	108901933	A	C	C	intron_variant	MODIFIER	DDX10
+11	112269693	C	A	A	upstream_gene_variant	MODIFIER	LINC02762
+11	113039057	C	A	A	intron_variant	MODIFIER	NCAM1
+11	113461283	G	A	A	intron_variant	MODIFIER	DRD2
+11	113985656	G	C	C	intron_variant	MODIFIER	HTR3A
+11	117084615	T	A	A	intron_variant	MODIFIER	SIK3
+11	117927956	T	G	G	intron_variant	MODIFIER	TMPRSS13
+11	120618401	A	C	C	intron_variant	MODIFIER	GRIK4
+11	120618422	T	C	C	intron_variant	MODIFIER	GRIK4
+11	122523206	T	G	G	intron_variant&non_coding_transcript_variant	MODIFIER	MIR100HG
+11	122852476	A	G	G	intron_variant	MODIFIER	CRTAM
+11	122867873	T	G	G	intron_variant	MODIFIER	CRTAM
+11	124485793	A	AT	T	upstream_gene_variant	MODIFIER	OR8B9P
+11	127264497	A	G	G	intergenic_variant	MODIFIER	
+11	127752623	T	A	A	intergenic_variant	MODIFIER	
+11	128340320	T	G	G	intergenic_variant	MODIFIER	
+11	129733319	C	A	A	intergenic_variant	MODIFIER	
+11	131843151	A	T	T	intron_variant	MODIFIER	NTM
+11	132557788	C	A	A	intron_variant	MODIFIER	OPCML
+11	133123692	C	T	T	intron_variant	MODIFIER	OPCML
+11	133693093	C	A	A	intergenic_variant	MODIFIER	
+12	270529	C	T	T	downstream_gene_variant	MODIFIER	
+12	2047546	A	C	C	upstream_gene_variant	MODIFIER	CACNA1C
+12	8554003	T	G	G	intron_variant&non_coding_transcript_variant	MODIFIER	
+12	13698087	C	G	G	intron_variant	MODIFIER	GRIN2B
+12	14680210	C	A	A	intron_variant	MODIFIER	GUCY2C
+12	16370890	C	G	G	intron_variant	MODIFIER	MGST1
+12	17337533	C	G	G	intergenic_variant	MODIFIER	
+12	20567551	ATTT	ATT	-	intron_variant	MODIFIER	PDE3A
+12	22087749	A	G	G	intron_variant&non_coding_transcript_variant	MODIFIER	ST8SIA1
+12	25258781	T	A	A	intergenic_variant	MODIFIER	
+12	26243571	T	G	G	intron_variant&non_coding_transcript_variant	MODIFIER	SSPN
+12	30236859	T	A	A	intron_variant&non_coding_transcript_variant	MODIFIER	LINC02386
+12	30563684	C	G	G	intergenic_variant	MODIFIER	
+12	30940027	A	T	T	intron_variant	MODIFIER	TSPAN11
+12	38591563	C	G	G	upstream_gene_variant	MODIFIER	
+12	38733820	T	C	C	intron_variant	MODIFIER	CPNE8
+12	39152223	T	C	C	intergenic_variant	MODIFIER	
+12	43420860	T	A	A	intron_variant	MODIFIER	ADAMTS20
+12	44345732	T	G	G	intron_variant	MODIFIER	TMEM117
+12	46578091	T	C	C	intron_variant&non_coding_transcript_variant	MODIFIER	
+12	46988919	A	C	C	intergenic_variant	MODIFIER	
+12	49477702	G	T	T	intron_variant	MODIFIER	SPATS2
+12	50827279	T	G	G	intergenic_variant	MODIFIER	
+12	51518116	C	A	A	downstream_gene_variant	MODIFIER	SLC4A8
+12	53936098	C	G	G	upstream_gene_variant	MODIFIER	HOXC13
+12	56192670	G	C	C	upstream_gene_variant	MODIFIER	SMARCC2
+12	57755801	G	A	A	upstream_gene_variant	MODIFIER	CDK4
+12	59849622	A	C	C	intergenic_variant	MODIFIER	
+12	59849624	T	C	C	intergenic_variant	MODIFIER	
+12	59926908	C	G	G	intergenic_variant	MODIFIER	
+12	61098042	T	A	A	intergenic_variant	MODIFIER	
+12	63162237	C	A	A	intergenic_variant	MODIFIER	
+12	63478450	T	A	A	intergenic_variant	MODIFIER	
+12	65452541	A	T	T	intron_variant	MODIFIER	MSRB3
+12	66835616	C	A	A	intron_variant	MODIFIER	GRIP1
+12	67784518	C	T	T	intergenic_variant	MODIFIER	
+12	67784519	A	G	G	intergenic_variant	MODIFIER	
+12	71076243	T	A	A	intron_variant&non_coding_transcript_variant	MODIFIER	
+12	72174709	T	G	G	intron_variant&non_coding_transcript_variant	MODIFIER	TPH2
+12	72174714	A	C	C	intron_variant&non_coding_transcript_variant	MODIFIER	TPH2
+12	72222525	T	A	A	intron_variant&non_coding_transcript_variant	MODIFIER	TRHDE
+12	73923268	C	G	G	downstream_gene_variant	MODIFIER	
+12	79908787	A	T	T	intron_variant	MODIFIER	PPP1R12A
+12	83888746	A	C	C	downstream_gene_variant	MODIFIER	
+12	84584767	A	C	C	intergenic_variant	MODIFIER	
+12	88106577	C	G	G	intron_variant	MODIFIER	CEP290
+12	88943789	C	A	A	intergenic_variant	MODIFIER	
+12	90115849	A	G	G	downstream_gene_variant	MODIFIER	
+12	91174325	G	T	T	intron_variant	MODIFIER	DCN
+12	93767819	A	T	T	intron_variant	MODIFIER	CRADD
+12	95188466	T	C	C	intron_variant	MODIFIER	FGD6
+12	97386351	G	C	C	intergenic_variant	MODIFIER	
+12	99422306	C	A	A	intron_variant	MODIFIER	ANKS1B
+12	99849963	T	G	G	intron_variant	MODIFIER	ANKS1B
+12	101041007	A	C	C	intron_variant	MODIFIER	ANO4
+12	104868104	G	T	T	intron_variant	MODIFIER	SLC41A2
+12	115869759	T	C	C	intron_variant&non_coding_transcript_variant	MODIFIER	LINC02463
+12	116300830	G	T	T	intergenic_variant	MODIFIER	
+12	123830522	A	T	T	intron_variant	MODIFIER	DNAH10
+12	124758003	A	C	C	intergenic_variant	MODIFIER	
+12	124796375	C	T	T	intron_variant	MODIFIER	SCARB1
+12	129240135	A	T	T	intron_variant	MODIFIER	TMEM132D
+13	19056339	C	A	A	intron_variant&non_coding_transcript_variant	MODIFIER	PHF2P2
+13	22447825	T	G	G	intergenic_variant	MODIFIER	
+13	23229729	C	T	T	intron_variant	MODIFIER	SGCG
+13	26647796	T	A	A	intron_variant	MODIFIER	WASF3
+13	27140770	C	T	T	intron_variant	MODIFIER	USP12
+13	27472315	C	T	T	intergenic_variant	MODIFIER	
+13	27719673	C	A	A	intron_variant	MODIFIER	POLR1D
+13	28048885	A	G	G	intron_variant	MODIFIER	FLT3
+13	29708701	T	C	C	intergenic_variant	MODIFIER	
+13	30714862	T	C	C	intron_variant	MODIFIER	ALOX5AP
+13	32934068	A	G	G	intergenic_variant	MODIFIER	
+13	36868406	C	G	G	intron_variant	MODIFIER	SMAD9
+13	38179812	C	G	G	intron_variant&non_coding_transcript_variant	MODIFIER	LINC00571
+13	40771046	T	C	C	missense_variant	MODERATE	MRPS31
+13	43229681	T	G	G	intron_variant	MODIFIER	ENOX1
+13	43527861	T	G	G	intron_variant	MODIFIER	ENOX1
+13	45605467	G	C	C	intron_variant	MODIFIER	ERICH6B
+13	45918104	T	A	A	intergenic_variant	MODIFIER	
+13	46211725	T	A	A	upstream_gene_variant	MODIFIER	LRRC63
+13	46481698	G	T	T	intron_variant&non_coding_transcript_variant	MODIFIER	LINC01198
+13	48707598	C	A	A	missense_variant	MODERATE	CYSLTR2
+13	50001667	G	C	C	intron_variant	MODIFIER	TRIM13
+13	51745268	A	T	T	intron_variant	MODIFIER	WDFY2
+13	51745269	T	C	C	intron_variant	MODIFIER	WDFY2
+13	57227247	A	T	T	intergenic_variant	MODIFIER	
+13	57227251	A	C	C	intergenic_variant	MODIFIER	
+13	64160408	G	A	A	intergenic_variant	MODIFIER	
+13	64303606	A	T	T	intergenic_variant	MODIFIER	
+13	67394503	A	C	C	intergenic_variant	MODIFIER	
+13	77524638	T	C	C	intergenic_variant	MODIFIER	
+13	78628028	G	C	C	intron_variant	MODIFIER	OBI1
+13	78628031	A	C	C	intron_variant	MODIFIER	OBI1
+13	79243543	T	G	G	intergenic_variant	MODIFIER	
+13	81879909	T	G	G	intergenic_variant	MODIFIER	
+13	86037753	T	G	G	intergenic_variant	MODIFIER	
+13	86876185	A	T	T	intergenic_variant	MODIFIER	
+13	88446579	G	C	C	intergenic_variant	MODIFIER	
+13	88871639	A	T	T	intergenic_variant	MODIFIER	
+13	92700981	T	A	A	intron_variant	MODIFIER	GPC5
+13	93528875	C	G	G	intron_variant	MODIFIER	GPC6
+13	96006349	G	A	A	intron_variant	MODIFIER	UGGT2
+13	96517075	G	T	T	intron_variant	MODIFIER	HS6ST3
+13	97406078	T	G	G	intron_variant&non_coding_transcript_variant	MODIFIER	
+13	99629228	T	C	C	intron_variant	MODIFIER	CLYBL
+13	99830905	T	A	A	intron_variant	MODIFIER	CLYBL
+13	101857697	C	T	T	intron_variant	MODIFIER	FGF14
+13	101857701	T	G	G	intron_variant	MODIFIER	FGF14
+13	103417176	A	C	C	upstream_gene_variant	MODIFIER	LINC01309
+13	104865272	G	C	C	intergenic_variant	MODIFIER	
+13	104865274	A	G	G	intergenic_variant	MODIFIER	
+13	105803802	G	A	A	intergenic_variant	MODIFIER	
+13	106304005	A	T	T	intron_variant&non_coding_transcript_variant	MODIFIER	
+13	106464296	T	C	C	intergenic_variant	MODIFIER	
+13	106976244	A	C	C	intergenic_variant	MODIFIER	
+13	107912489	G	T	T	intron_variant&non_coding_transcript_variant	MODIFIER	
+13	112035926	T	G	G	intergenic_variant	MODIFIER	
+14	20854549	A	T	T	intergenic_variant	MODIFIER	
+14	20854553	G	A	A	intergenic_variant	MODIFIER	
+14	21452328	T	C	C	intron_variant&non_coding_transcript_variant	MODIFIER	CHD8
+14	22909548	G	C	C	non_coding_transcript_exon_variant	MODIFIER	RBM23
+14	25278448	A	T	T	intergenic_variant	MODIFIER	
+14	25278470	G	C	C	intergenic_variant	MODIFIER	
+14	25850828	G	T	T	intron_variant&non_coding_transcript_variant	MODIFIER	LINC02306
+14	27546929	C	T	T	intron_variant&non_coding_transcript_variant	MODIFIER	MIR3171HG
+14	30204188	G	A	A	intron_variant&non_coding_transcript_variant	MODIFIER	
+14	31927156	T	G	G	intron_variant&non_coding_transcript_variant	MODIFIER	
+14	35027483	T	G	G	intron_variant	MODIFIER	SRP54
+14	35785319	AT	A	-	intron_variant	MODIFIER	RALGAPA1
+14	37826319	C	A	A	missense_variant	MODERATE	TTC6
+14	39686371	C	T	T	intron_variant&non_coding_transcript_variant	MODIFIER	
+14	39686374	A	G	G	intron_variant&non_coding_transcript_variant	MODIFIER	
+14	43528180	C	G	G	intergenic_variant	MODIFIER	
+14	44956540	A	C	C	intron_variant	MODIFIER	KLHL28
+14	52102192	A	G	G	intergenic_variant	MODIFIER	
+14	52231544	T	G	G	intergenic_variant	MODIFIER	
+14	54930519	C	G	G	intergenic_variant	MODIFIER	
+14	55883991	C	T	T	intergenic_variant	MODIFIER	
+14	59674003	C	G	G	intron_variant	MODIFIER	RTN1
+14	59803665	T	C	C	intron_variant	MODIFIER	RTN1
+14	60166223	G	T	T	intron_variant	MODIFIER	DHRS7
+14	60464894	T	A	A	intron_variant	MODIFIER	C14orf39
+14	65880703	A	C	C	non_coding_transcript_exon_variant	MODIFIER	NCOA4P1
+14	67369787	G	T	T	intron_variant	MODIFIER	EIF2S1
+14	68156714	A	T	T	intron_variant	MODIFIER	RAD51B
+14	69093621	C	T	T	intron_variant	MODIFIER	DCAF5
+14	69481944	C	G	G	upstream_gene_variant	MODIFIER	PLEKHD1
+14	72655672	A	G	G	splice_region_variant&splice_polypyrimidine_tract_variant&intron_variant&non_coding_transcript_variant	LOW	DPF3
+14	73082176	A	T	T	intron_variant	MODIFIER	RBM25
+14	73904336	G	A	A	intron_variant	MODIFIER	ZNF410
+14	74521812	A	T	T	intron_variant	MODIFIER	LTBP2
+14	75260763	A	T	T	intron_variant&non_coding_transcript_variant	MODIFIER	
+14	76508277	T	G	G	intron_variant&non_coding_transcript_variant	MODIFIER	
+14	77070350	T	A	A	downstream_gene_variant	MODIFIER	LINC02288
+14	77070371	T	G	G	downstream_gene_variant	MODIFIER	LINC02288
+14	79112213	T	C	C	intron_variant	MODIFIER	NRXN3
+14	79112215	G	A	A	intron_variant	MODIFIER	NRXN3
+14	83525821	C	G	G	intergenic_variant	MODIFIER	
+14	85762278	A	G	G	intergenic_variant	MODIFIER	
+14	88547061	A	C	C	intron_variant	MODIFIER	PTPN21
+14	90141051	A	C	C	intron_variant	MODIFIER	KCNK13
+14	90599940	A	C	C	intron_variant	MODIFIER	TTC7B
+14	90876181	A	T	T	intron_variant	MODIFIER	RPS6KA5
+14	95551543	T	A	A	intergenic_variant	MODIFIER	
+14	96105827	A	T	T	intergenic_variant	MODIFIER	
+14	96299898	T	C	C	intron_variant&non_coding_transcript_variant	MODIFIER	ATG2B
+14	97766421	G	T	T	upstream_gene_variant	MODIFIER	LINC02312
+14	101073850	C	G	G	downstream_gene_variant	MODIFIER	MEG9
+14	101437938	T	A	A	upstream_gene_variant	MODIFIER	LINC02314
+14	101483144	A	T	T	intergenic_variant	MODIFIER	
+14	104746771	G	C	C	intron_variant	MODIFIER	ADSS1
+15	27275060	G	C	C	intron_variant	MODIFIER	GABRG3
+15	29792116	A	T	T	intron_variant	MODIFIER	TJP1
+15	30920090	A	G	G	intron_variant	MODIFIER	FAN1
+15	34907522	T	A	A	intron_variant	MODIFIER	AQR
+15	44747348	T	A	A	intron_variant	MODIFIER	TRIM69
+15	46693507	A	C	C	non_coding_transcript_exon_variant	MODIFIER	
+15	46824867	T	A	A	upstream_gene_variant	MODIFIER	
+15	47962221	G	A	A	intron_variant&non_coding_transcript_variant	MODIFIER	
+15	49680748	A	G	G	intergenic_variant	MODIFIER	
+15	49750465	A	G	G	intergenic_variant	MODIFIER	
+15	53450729	T	G	G	intron_variant&non_coding_transcript_variant	MODIFIER	
+15	53690531	T	C	C	intron_variant	MODIFIER	WDR72
+15	53690554	T	C	C	intron_variant	MODIFIER	WDR72
+15	54154358	T	G	G	intron_variant	MODIFIER	UNC13C
+15	55234395	A	T	T	intron_variant	MODIFIER	RAB27A
+15	60910583	C	A	A	intron_variant	MODIFIER	RORA
+15	61679168	A	T	T	intron_variant&non_coding_transcript_variant	MODIFIER	
+15	64555621	C	A	A	intron_variant	MODIFIER	ZNF609
+15	68259719	G	A	A	upstream_gene_variant	MODIFIER	CLN6
+15	73161308	T	C	C	intron_variant	MODIFIER	NEO1
+15	73238558	G	C	C	intron_variant	MODIFIER	NEO1
+15	74234684	A	G	G	upstream_gene_variant	MODIFIER	CCDC33
+15	77729966	A	G	G	intron_variant	MODIFIER	LINGO1
+15	78942588	GA	G	-	intron_variant	MODIFIER	CTSH
+15	79823985	C	A	A	intergenic_variant	MODIFIER	
+15	81723176	A	T	T	intron_variant&non_coding_transcript_variant	MODIFIER	
+15	95582754	A	G	G	intergenic_variant	MODIFIER	
+15	96726619	A	C	C	intergenic_variant	MODIFIER	
+15	98334486	G	A	A	intron_variant&non_coding_transcript_variant	MODIFIER	LINC02351
+15	99447305	C	G	G	intergenic_variant	MODIFIER	
+16	1118414	C	A	A	intergenic_variant	MODIFIER	
+16	1999946	C	G	G	non_coding_transcript_exon_variant	MODIFIER	ZNF598
+16	2684997	C	G	G	intron_variant	MODIFIER	KCTD5
+16	4530152	T	C	C	intron_variant	MODIFIER	CDIP1
+16	7628906	C	G	G	intron_variant	MODIFIER	RBFOX1
+16	12972772	T	A	A	intron_variant	MODIFIER	SHISA9
+16	13771738	T	G	G	intron_variant&non_coding_transcript_variant	MODIFIER	
+16	15657906	T	G	G	intron_variant	MODIFIER	NDE1
+16	20711400	A	T	T	intron_variant&non_coding_transcript_variant	MODIFIER	ACSM3
+16	24107982	A	T	T	intron_variant	MODIFIER	PRKCB
+16	24674619	G	A	A	upstream_gene_variant	MODIFIER	LINC01567
+16	26131077	C	G	G	intron_variant	MODIFIER	HS3ST4
+16	28315134	T	C	C	intron_variant	MODIFIER	SBK1
+16	29008140	C	G	G	intergenic_variant	MODIFIER	
+16	30798497	C	A	A	intergenic_variant	MODIFIER	
+16	34023123	C	G	G	intergenic_variant	MODIFIER	
+16	48514034	G	T	T	intergenic_variant	MODIFIER	
+16	49479712	A	T	T	intergenic_variant	MODIFIER	
+16	50987633	C	T	T	intergenic_variant	MODIFIER	
+16	51359585	A	G	G	upstream_gene_variant	MODIFIER	
+16	53710013	C	A	A	intron_variant&NMD_transcript_variant	MODIFIER	FTO
+16	53791355	C	G	G	intron_variant&NMD_transcript_variant	MODIFIER	FTO
+16	57058804	G	T	T	intron_variant	MODIFIER	NLRC5
+16	58253879	C	A	A	intron_variant	MODIFIER	CCDC113
+16	58253901	A	G	G	intron_variant	MODIFIER	CCDC113
+16	58486149	A	C	C	intron_variant	MODIFIER	NDRG4
+16	63964282	C	G	G	intergenic_variant	MODIFIER	
+16	64802565	A	C	C	intergenic_variant	MODIFIER	
+16	68105550	T	A	A	intron_variant	MODIFIER	NFATC3
+16	74325966	T	A	A	intron_variant&non_coding_transcript_variant	MODIFIER	
+16	76569269	A	G	G	intergenic_variant	MODIFIER	
+16	77865634	C	G	G	intron_variant	MODIFIER	VAT1L
+16	78466873	T	G	G	intron_variant	MODIFIER	WWOX
+16	79754414	A	C	C	intron_variant&non_coding_transcript_variant	MODIFIER	LINC01229
+16	79754434	T	G	G	intron_variant&non_coding_transcript_variant	MODIFIER	LINC01229
+16	79904440	C	G	G	intergenic_variant	MODIFIER	
+16	80440582	A	T	T	intron_variant&non_coding_transcript_variant	MODIFIER	DYNLRB2-AS1
+16	83347205	A	C	C	intron_variant	MODIFIER	CDH13
+16	84585933	A	C	C	intron_variant	MODIFIER	COTL1
+16	84585934	T	A	A	intron_variant	MODIFIER	COTL1
+16	85178326	A	G	G	intron_variant&non_coding_transcript_variant	MODIFIER	GSE1
+16	85207824	G	T	T	intron_variant	MODIFIER	GSE1
+16	86101258	T	A	A	intergenic_variant	MODIFIER	
+16	88413242	C	G	G	intron_variant	MODIFIER	ZNF469
+17	1967582	T	C	C	intron_variant	MODIFIER	RTN4RL1
+17	3528970	T	A	A	missense_variant	MODERATE	TRPV3
+17	4571171	G	T	T	intron_variant&non_coding_transcript_variant	MODIFIER	
+17	4893317	A	T	T	splice_region_variant&intron_variant	LOW	MINK1
+17	7213068	T	G	G	intron_variant	MODIFIER	DLG4
+17	9169320	G	C	C	intron_variant	MODIFIER	NTN1
+17	9710084	C	T	T	missense_variant	MODERATE	USP43
+17	13441056	A	G	G	intergenic_variant	MODIFIER	
+17	13619653	C	G	G	intergenic_variant	MODIFIER	
+17	14226485	A	G	G	intron_variant&NMD_transcript_variant	MODIFIER	COX10
+17	17773672	G	A	A	intron_variant	MODIFIER	RAI1
+17	18278599	A	T	T	intron_variant	MODIFIER	TOP3A
+17	20912406	G	GA	A	intron_variant&non_coding_transcript_variant	MODIFIER	CCDC144NL-AS1
+17	28274414	T	A	A	downstream_gene_variant	MODIFIER	KRT18P55
+17	28930580	G	C	C	intron_variant	MODIFIER	PHF12
+17	29670457	C	T	T	intron_variant	MODIFIER	SSH2
+17	29766117	T	A	A	intron_variant	MODIFIER	SSH2
+17	34004806	A	C	C	intron_variant	MODIFIER	ASIC2
+17	37218410	A	G	G	intron_variant&non_coding_transcript_variant	MODIFIER	ACACA
+17	40372099	T	A	A	upstream_gene_variant	MODIFIER	RNA5SP441
+17	45252228	A	C	C	downstream_gene_variant	MODIFIER	FMNL1
+17	45837487	C	A	A	downstream_gene_variant	MODIFIER	CRHR1
+17	48571171	C	G	G	intron_variant	MODIFIER	HOXB3
+17	52721956	T	A	A	intergenic_variant	MODIFIER	
+17	53836032	T	C	C	intron_variant&non_coding_transcript_variant	MODIFIER	
+17	59386835	G	T	T	intron_variant	MODIFIER	YPEL2
+17	60587244	A	C	C	downstream_gene_variant	MODIFIER	LINC01999
+17	60739487	G	C	C	intron_variant	MODIFIER	BCAS3
+17	62738226	A	C	C	intron_variant	MODIFIER	MARCHF10
+17	64061626	A	C	C	intron_variant	MODIFIER	ERN1
+17	65228859	C	A	A	downstream_gene_variant	MODIFIER	RGS9
+17	65565222	T	A	A	upstream_gene_variant	MODIFIER	AXIN2
+17	69905086	C	G	G	downstream_gene_variant	MODIFIER	LINC01483
+17	72411475	A	C	C	intron_variant&non_coding_transcript_variant	MODIFIER	LINC00511
+17	73513452	T	C	C	intron_variant	MODIFIER	SDK2
+17	73857761	T	G	G	intergenic_variant	MODIFIER	
+17	74868795	T	A	A	intron_variant	MODIFIER	FDXR
+17	76999262	C	A	A	intergenic_variant	MODIFIER	
+17	77631042	G	C	C	intron_variant&non_coding_transcript_variant	MODIFIER	
+17	78550096	C	G	G	intron_variant	MODIFIER	DNAH17
+17	78680883	C	A	A	intron_variant	MODIFIER	CYTH1
+17	79553551	C	T	T	intron_variant	MODIFIER	RBFOX3
+18	673236	A	G	G	3_prime_UTR_variant	MODIFIER	TYMS
+18	2713129	T	G	G	intron_variant	MODIFIER	SMCHD1
+18	5903122	A	T	T	intron_variant&non_coding_transcript_variant	MODIFIER	
+18	7760364	C	T	T	intron_variant	MODIFIER	PTPRM
+18	11835728	G	A	A	intron_variant	MODIFIER	GNAL
+18	12475936	A	G	G	intron_variant	MODIFIER	SPIRE1
+18	12680112	A	G	G	intron_variant	MODIFIER	CEP76
+18	25604115	G	C	C	intergenic_variant	MODIFIER	
+18	27581065	G	C	C	intron_variant&non_coding_transcript_variant	MODIFIER	
+18	31962480	A	T	T	non_coding_transcript_exon_variant	MODIFIER	PGDP1
+18	32687127	G	C	C	intron_variant	MODIFIER	KLHL14
+18	32755852	G	T	T	intron_variant	MODIFIER	KLHL14
+18	34915524	A	G	G	intergenic_variant	MODIFIER	
+18	35558352	A	G	G	intergenic_variant	MODIFIER	
+18	36179794	T	A	A	3_prime_UTR_variant	MODIFIER	ELP2
+18	37849786	T	A	A	intergenic_variant	MODIFIER	
+18	41938791	T	A	A	intergenic_variant	MODIFIER	
+18	44165140	C	A	A	intergenic_variant	MODIFIER	
+18	45110475	A	C	C	intron_variant&non_coding_transcript_variant	MODIFIER	
+18	46063732	A	T	T	intron_variant	MODIFIER	PSTPIP2
+18	48232899	A	G	G	intron_variant	MODIFIER	ZBTB7C
+18	52024526	T	G	G	intergenic_variant	MODIFIER	
+18	53659471	T	C	C	intergenic_variant	MODIFIER	
+18	53783537	C	G	G	intergenic_variant	MODIFIER	
+18	56340375	A	G	G	intergenic_variant	MODIFIER	
+18	57553109	T	A	A	intron_variant	MODIFIER	FECH
+18	58201358	G	C	C	intron_variant	MODIFIER	NEDD4L
+18	58971014	T	C	C	intron_variant	MODIFIER	ZNF532
+18	61093421	C	A	A	intergenic_variant	MODIFIER	
+18	61093422	A	G	G	intergenic_variant	MODIFIER	
+18	64583177	A	C	C	intergenic_variant	MODIFIER	
+18	64669373	T	G	G	intergenic_variant	MODIFIER	
+18	68197344	C	A	A	intergenic_variant	MODIFIER	
+18	68381889	T	A	A	intron_variant&non_coding_transcript_variant	MODIFIER	
+18	69479033	C	T	T	intron_variant	MODIFIER	DOK6
+18	69800162	G	A	A	intron_variant	MODIFIER	DOK6
+18	72200466	G	A	A	intergenic_variant	MODIFIER	
+18	72200487	C	G	G	intergenic_variant	MODIFIER	
+18	72844134	A	G	G	intron_variant	MODIFIER	NETO1
+18	75657109	A	G	G	downstream_gene_variant	MODIFIER	
+18	76469727	A	G	G	intron_variant	MODIFIER	ZNF516
+18	79347275	T	A	A	intron_variant	MODIFIER	ATP9B
+19	8125154	G	C	C	intron_variant	MODIFIER	FBN3
+19	9700279	A	C	C	intron_variant&non_coding_transcript_variant	MODIFIER	
+19	19384498	G	T	T	upstream_gene_variant	MODIFIER	GATAD2A
+19	20151434	T	C	C	intron_variant&non_coding_transcript_variant	MODIFIER	
+19	20800330	G	T	T	intron_variant	MODIFIER	ZNF66
+19	20853780	A	G	G	intergenic_variant	MODIFIER	
+19	21601064	A	C	C	intergenic_variant	MODIFIER	
+19	22205307	C	A	A	downstream_gene_variant	MODIFIER	BNIP3P30
+19	22205312	A	C	C	downstream_gene_variant	MODIFIER	BNIP3P30
+19	27755325	G	T	T	intron_variant&non_coding_transcript_variant	MODIFIER	LINC00662
+19	29847078	A	G	G	intergenic_variant	MODIFIER	
+19	31087740	G	C	C	intergenic_variant	MODIFIER	
+19	31826429	T	C	C	intron_variant&non_coding_transcript_variant	MODIFIER	LINC01837
+19	31979565	C	CCA	CA	intron_variant&non_coding_transcript_variant	MODIFIER	LINC01837
+19	32576927	A	T	T	upstream_gene_variant	MODIFIER	PDCD5
+19	33693895	G	A	A	intron_variant	MODIFIER	CHST8
+19	34482972	T	C	C	intron_variant	MODIFIER	WTIP
+19	35119540	C	T	T	downstream_gene_variant	MODIFIER	LGI4
+19	37544987	G	C	C	downstream_gene_variant	MODIFIER	
+19	37639711	A	G	G	intron_variant	MODIFIER	ZFP30
+19	37639713	C	A	A	intron_variant	MODIFIER	ZFP30
+19	43936715	T	G	G	upstream_gene_variant	MODIFIER	ZNF45
+19	49341358	G	T	T	missense_variant	MODERATE	TEAD2
+19	55968998	A	C	C	intron_variant	MODIFIER	NLRP8
+19	57379379	G	A	A	3_prime_UTR_variant	MODIFIER	ZNF547
+2	824567	A	T	T	intron_variant&non_coding_transcript_variant	MODIFIER	LINC01115
+2	2033445	A	C	C	intron_variant	MODIFIER	MYT1L
+2	2133457	A	C	C	intron_variant	MODIFIER	MYT1L
+2	3169681	A	C	C	intergenic_variant	MODIFIER	
+2	4227041	A	T	T	intergenic_variant	MODIFIER	
+2	5312726	G	T	T	downstream_gene_variant	MODIFIER	
+2	5860432	A	G	G	intergenic_variant	MODIFIER	
+2	13764017	T	G	G	intron_variant&non_coding_transcript_variant	MODIFIER	LINC00276
+2	14008846	T	A	A	intron_variant&non_coding_transcript_variant	MODIFIER	LINC00276
+2	18099436	A	T	T	intron_variant&non_coding_transcript_variant	MODIFIER	KCNS3
+2	19423768	T	C	C	intergenic_variant	MODIFIER	
+2	20800631	T	G	G	intron_variant	MODIFIER	LDAH
+2	22026237	T	G	G	intron_variant&non_coding_transcript_variant	MODIFIER	
+2	23075686	T	C	C	intron_variant&non_coding_transcript_variant	MODIFIER	
+2	23427744	A	T	T	intron_variant	MODIFIER	KLHL29
+2	23427749	A	T	T	intron_variant	MODIFIER	KLHL29
+2	23757353	A	T	T	intron_variant	MODIFIER	ATAD2B
+2	25542228	C	G	G	intron_variant	MODIFIER	DTNB
+2	26375511	G	C	C	intron_variant	MODIFIER	SELENOI
+2	37315269	A	T	T	intron_variant	MODIFIER	PRKD3
+2	41275671	G	T	T	intergenic_variant	MODIFIER	
+2	43231143	A	G	G	upstream_gene_variant	MODIFIER	ZFP36L2
+2	43832082	G	A	A	splice_region_variant&synonymous_variant	LOW	ABCG5
+2	43985010	T	G	G	intron_variant	MODIFIER	LRPPRC
+2	47837911	T	A	A	intron_variant	MODIFIER	FBXO11
+2	47837916	G	A	A	intron_variant	MODIFIER	FBXO11
+2	49066195	A	T	T	intron_variant	MODIFIER	FSHR
+2	51355814	G	T	T	intron_variant&non_coding_transcript_variant	MODIFIER	
+2	51768799	T	G	G	intron_variant&non_coding_transcript_variant	MODIFIER	
+2	52849241	A	G	G	intron_variant&non_coding_transcript_variant	MODIFIER	
+2	53081353	T	G	G	intergenic_variant	MODIFIER	
+2	53732594	T	G	G	intron_variant	MODIFIER	ASB3
+2	54310736	T	A	A	intergenic_variant	MODIFIER	
+2	57692121	T	G	G	intergenic_variant	MODIFIER	
+2	59678672	T	G	G	intron_variant&non_coding_transcript_variant	MODIFIER	
+2	60164204	A	C	C	intergenic_variant	MODIFIER	
+2	60239295	G	A	A	intergenic_variant	MODIFIER	
+2	63272889	T	G	G	intron_variant	MODIFIER	WDPCP
+2	64183538	G	A	A	upstream_gene_variant	MODIFIER	
+2	66567467	G	C	C	missense_variant	MODERATE	MEIS1
+2	68106103	A	T	T	intron_variant&non_coding_transcript_variant	MODIFIER	C1D
+2	68751782	G	T	T	intron_variant	MODIFIER	ARHGAP25
+2	68914234	T	G	G	intergenic_variant	MODIFIER	
+2	69060694	C	T	T	intron_variant	MODIFIER	ANTXR1
+2	70181575	C	G	G	missense_variant	MODERATE	C2orf42
+2	71324402	T	A	A	intron_variant	MODIFIER	ZNF638
+2	75938120	A	C	C	intron_variant&non_coding_transcript_variant	MODIFIER	
+2	76260666	G	C	C	upstream_gene_variant	MODIFIER	PNPP1
+2	77013676	A	G	G	intron_variant	MODIFIER	LRRTM4
+2	78797714	G	T	T	intergenic_variant	MODIFIER	
+2	80765771	A	G	G	intron_variant&non_coding_transcript_variant	MODIFIER	
+2	81045280	T	A	A	intergenic_variant	MODIFIER	
+2	81045285	A	G	G	intergenic_variant	MODIFIER	
+2	81883645	C	T	T	intergenic_variant	MODIFIER	
+2	82544697	T	G	G	intergenic_variant	MODIFIER	
+2	82544717	T	C	C	intergenic_variant	MODIFIER	
+2	83266870	A	T	T	intergenic_variant	MODIFIER	
+2	94862059	T	G	G	upstream_gene_variant	MODIFIER	ANKRD20A8P
+2	98184426	A	C	C	intron_variant&non_coding_transcript_variant	MODIFIER	VWA3B
+2	102478903	G	T	T	synonymous_variant	LOW	SLC9A4
+2	104288389	A	T	T	intergenic_variant	MODIFIER	
+2	104315978	C	A	A	intergenic_variant	MODIFIER	
+2	104661478	T	C	C	intron_variant&non_coding_transcript_variant	MODIFIER	
+2	106965908	G	C	C	downstream_gene_variant	MODIFIER	
+2	113755545	C	G	G	splice_acceptor_variant	HIGH	SLC35F5
+2	114186642	C	G	G	intergenic_variant	MODIFIER	
+2	115306599	G	T	T	intron_variant	MODIFIER	DPP10
+2	115653261	G	T	T	intron_variant	MODIFIER	DPP10
+2	118345995	C	A	A	intergenic_variant	MODIFIER	
+2	118345998	C	T	T	intergenic_variant	MODIFIER	
+2	121937122	A	T	T	intron_variant&non_coding_transcript_variant	MODIFIER	
+2	122140628	A	G	G	intron_variant&non_coding_transcript_variant	MODIFIER	
+2	122435307	T	G	G	intron_variant&non_coding_transcript_variant	MODIFIER	
+2	122989933	A	T	T	intergenic_variant	MODIFIER	
+2	123136756	G	A	A	intergenic_variant	MODIFIER	
+2	123485687	T	C	C	intergenic_variant	MODIFIER	
+2	123909959	T	G	G	intergenic_variant	MODIFIER	
+2	124826748	C	A	A	intron_variant	MODIFIER	CNTNAP5
+2	126999036	C	T	T	intergenic_variant	MODIFIER	
+2	128125402	T	A	A	intron_variant	MODIFIER	UGGT1
+2	130722353	A	T	T	downstream_gene_variant	MODIFIER	
+2	132923851	T	G	G	intron_variant	MODIFIER	NCKAP5
+2	134588527	G	T	T	intron_variant	MODIFIER	TMEM163
+2	134966872	G	A	A	intron_variant	MODIFIER	MAP3K19
+2	136167832	G	A	A	intergenic_variant	MODIFIER	
+2	141154972	T	G	G	intron_variant	MODIFIER	LRP1B
+2	144202850	A	T	T	intron_variant	MODIFIER	GTDC1
+2	148619122	A	G	G	intergenic_variant	MODIFIER	
+2	149864557	T	G	G	intron_variant&non_coding_transcript_variant	MODIFIER	MMADHC-DT
+2	150360670	A	G	G	downstream_gene_variant	MODIFIER	LINC01818
+2	152432550	G	C	C	intron_variant	MODIFIER	FMNL2
+2	153057733	C	G	G	intergenic_variant	MODIFIER	
+2	153417884	A	C	C	downstream_gene_variant	MODIFIER	
+2	157632285	G	C	C	upstream_gene_variant	MODIFIER	ACVR1C
+2	157835991	T	G	G	intron_variant	MODIFIER	ACVR1
+2	161425277	A	T	T	3_prime_UTR_variant	MODIFIER	TBR1
+2	164069956	T	G	G	intron_variant&non_coding_transcript_variant	MODIFIER	
+2	164375617	G	T	T	intergenic_variant	MODIFIER	
+2	165127799	A	T	T	synonymous_variant	LOW	SCN3A
+2	165239635	T	A	A	5_prime_UTR_variant	MODIFIER	SCN2A
+2	169103633	T	A	A	downstream_gene_variant	MODIFIER	
+2	170176005	A	T	T	upstream_gene_variant	MODIFIER	MYO3B
+2	170538330	T	G	G	intron_variant&NMD_transcript_variant	MODIFIER	MYO3B
+2	172145068	T	G	G	intron_variant&non_coding_transcript_variant	MODIFIER	
+2	178441319	A	C	C	intron_variant	MODIFIER	PRKRA
+2	179869463	T	A	A	intergenic_variant	MODIFIER	
+2	179869469	A	T	T	intergenic_variant	MODIFIER	
+2	181842774	T	C	C	intergenic_variant	MODIFIER	
+2	183098404	T	C	C	downstream_gene_variant	MODIFIER	DUSP19
+2	183349398	A	T	T	intron_variant&non_coding_transcript_variant	MODIFIER	
+2	183577818	G	A	A	intergenic_variant	MODIFIER	
+2	183607501	C	A	A	non_coding_transcript_exon_variant	MODIFIER	CACYBPP2
+2	184342841	A	G	G	intron_variant&non_coding_transcript_variant	MODIFIER	
+2	185395941	C	T	T	intergenic_variant	MODIFIER	
+2	185495812	G	C	C	intron_variant&non_coding_transcript_variant	MODIFIER	
+2	186603748	A	T	T	intron_variant	MODIFIER	ITGAV
+2	187115568	A	T	T	intron_variant&non_coding_transcript_variant	MODIFIER	CALCRL-AS1
+2	188568543	T	A	A	intron_variant	MODIFIER	GULP1
+2	188747990	C	G	G	intron_variant&non_coding_transcript_variant	MODIFIER	
+2	189112703	C	T	T	intron_variant	MODIFIER	COL5A2
+2	192499953	G	T	T	intergenic_variant	MODIFIER	
+2	193273009	A	C	C	downstream_gene_variant	MODIFIER	DNAJC17P1
+2	193361657	T	A	A	intergenic_variant	MODIFIER	
+2	195903033	A	G	G	intron_variant	MODIFIER	DNAH7
+2	195903055	C	G	G	intron_variant	MODIFIER	DNAH7
+2	197745478	C	A	A	intron_variant	MODIFIER	BOLL
+2	197876519	T	C	C	intron_variant	MODIFIER	PLCL1
+2	197990212	A	C	C	intron_variant	MODIFIER	PLCL1
+2	200915483	C	A	A	intron_variant	MODIFIER	ORC2
+2	204486506	A	T	T	intron_variant&non_coding_transcript_variant	MODIFIER	
+2	204486507	T	A	A	intron_variant&non_coding_transcript_variant	MODIFIER	
+2	204494691	T	G	G	intron_variant&non_coding_transcript_variant	MODIFIER	
+2	206506988	T	A	A	intron_variant	MODIFIER	ADAM23
+2	207720505	C	A	A	intron_variant	MODIFIER	CCNYL1
+2	210249407	A	T	T	intergenic_variant	MODIFIER	
+2	210724206	C	G	G	intergenic_variant	MODIFIER	
+2	213449810	T	C	C	intron_variant	MODIFIER	SPAG16
+2	213542441	T	C	C	intron_variant	MODIFIER	SPAG16
+2	213927512	A	C	C	intron_variant	MODIFIER	SPAG16
+2	215591685	T	G	G	intron_variant&non_coding_transcript_variant	MODIFIER	
+2	217465175	G	T	T	intron_variant&non_coding_transcript_variant	MODIFIER	DIRC3
+2	217756938	G	T	T	upstream_gene_variant	MODIFIER	DIRC3
+2	219694010	G	A	A	intron_variant&non_coding_transcript_variant	MODIFIER	LINC02832
+2	220023559	C	G	G	intron_variant&non_coding_transcript_variant	MODIFIER	
+2	220602017	C	G	G	intron_variant&non_coding_transcript_variant	MODIFIER	
+2	221550278	G	T	T	intron_variant	MODIFIER	EPHA4
+2	222596207	C	G	G	intron_variant	MODIFIER	FARSB
+2	224971871	T	C	C	intron_variant	MODIFIER	DOCK10
+2	229822283	G	C	C	intron_variant	MODIFIER	TRIP12
+2	230438084	T	G	G	intron_variant	MODIFIER	SP100
+2	235159540	A	G	G	intergenic_variant	MODIFIER	
+2	235815419	A	T	T	intron_variant	MODIFIER	AGAP1
+2	236110916	T	G	G	intron_variant	MODIFIER	AGAP1
+2	238132405	C	T	T	3_prime_UTR_variant	MODIFIER	ESPNL
+2	240222445	T	C	C	intergenic_variant	MODIFIER	
+2	241547994	G	C	C	intron_variant&non_coding_transcript_variant	MODIFIER	BOK-AS1
+20	496637	C	A	A	intron_variant	MODIFIER	CSNK2A1
+20	3022266	C	G	G	intron_variant	MODIFIER	PTPRA
+20	4176504	A	C	C	intron_variant	MODIFIER	SMOX
+20	5701003	G	T	T	intergenic_variant	MODIFIER	
+20	5875021	G	C	C	intergenic_variant	MODIFIER	
+20	6489987	T	C	C	intron_variant&non_coding_transcript_variant	MODIFIER	CASC20
+20	6583768	G	A	A	intergenic_variant	MODIFIER	
+20	7234162	T	C	C	intron_variant&non_coding_transcript_variant	MODIFIER	LINC01428
+20	9119199	C	A	A	intron_variant	MODIFIER	PLCB4
+20	9885074	T	G	G	intergenic_variant	MODIFIER	
+20	11845221	G	A	A	intron_variant&non_coding_transcript_variant	MODIFIER	LINC00687
+20	16082557	A	G	G	intergenic_variant	MODIFIER	
+20	18709955	T	A	A	intron_variant	MODIFIER	DTD1
+20	18709959	A	G	G	intron_variant	MODIFIER	DTD1
+20	19970715	G	C	C	intron_variant	MODIFIER	RIN2
+20	20022111	T	C	C	intron_variant	MODIFIER	NAA20
+20	20645098	T	C	C	intron_variant	MODIFIER	RALGAPA2
+20	20645099	G	T	T	intron_variant	MODIFIER	RALGAPA2
+20	21613498	T	A	A	upstream_gene_variant	MODIFIER	
+20	21613518	A	G	G	upstream_gene_variant	MODIFIER	
+20	24425274	G	T	T	intergenic_variant	MODIFIER	
+20	29646557	C	T	T	downstream_gene_variant	MODIFIER	CFTRP2
+20	33228317	G	A	A	downstream_gene_variant	MODIFIER	BPIFA3
+20	39526385	G	A	A	intergenic_variant	MODIFIER	
+20	41653234	A	C	C	intron_variant&non_coding_transcript_variant	MODIFIER	
+20	42693739	A	T	T	intron_variant	MODIFIER	PTPRT
+20	49548605	T	C	C	intron_variant	MODIFIER	PTGIS
+20	49853484	T	A	A	intron_variant	MODIFIER	SLC9A8
+20	54419049	A	G	G	intergenic_variant	MODIFIER	
+20	56480069	G	A	A	intron_variant	MODIFIER	RTF2
+20	59880915	A	G	G	intron_variant	MODIFIER	SYCP2
+20	63161219	G	C	C	downstream_gene_variant	MODIFIER	
+20	63521912	G	C	C	3_prime_UTR_variant	MODIFIER	PPDPF
+21	15764215	C	A	A	intron_variant	MODIFIER	USP25
+21	15764218	A	T	T	intron_variant	MODIFIER	USP25
+21	17481576	T	A	A	intergenic_variant	MODIFIER	
+21	23645193	G	C	C	intergenic_variant	MODIFIER	
+21	23645199	A	T	T	intergenic_variant	MODIFIER	
+21	23797193	G	A	A	intergenic_variant	MODIFIER	
+21	29983740	C	G	G	intergenic_variant	MODIFIER	
+21	30146843	A	G	G	intergenic_variant	MODIFIER	
+21	32823477	A	C	C	intron_variant&non_coding_transcript_variant	MODIFIER	C21orf62-AS1
+21	35899667	A	C	C	intron_variant	MODIFIER	RUNX1
+21	37103561	A	T	T	intron_variant	MODIFIER	TTC3
+21	44404612	T	C	C	intron_variant	MODIFIER	TRPM2
+22	24485906	C	T	T	intron_variant&non_coding_transcript_variant	MODIFIER	ADORA2A-AS1
+22	25223777	C	T	T	intron_variant	MODIFIER	CRYBB2
+22	27108202	C	A	A	downstream_gene_variant	MODIFIER	
+22	31083056	C	A	A	intron_variant	MODIFIER	SMTN
+22	33723924	T	C	C	intron_variant	MODIFIER	LARGE1
+22	36553178	T	A	A	downstream_gene_variant	MODIFIER	
+22	39617516	G	A	A	intron_variant	MODIFIER	CACNA1I
+22	41735681	A	C	C	intron_variant	MODIFIER	MEI1
+22	44470506	CT	CTT	T	intergenic_variant	MODIFIER	
+3	427602	A	G	G	intergenic_variant	MODIFIER	
+3	1304600	A	G	G	intron_variant	MODIFIER	CNTN6
+3	1405052	C	A	A	downstream_gene_variant	MODIFIER	CNTN6
+3	3385149	T	A	A	intron_variant&non_coding_transcript_variant	MODIFIER	
+3	12191627	C	CG	G	downstream_gene_variant	MODIFIER	SYN2
+3	13886961	T	G	G	intergenic_variant	MODIFIER	
+3	14053063	A	C	C	intron_variant&non_coding_transcript_variant	MODIFIER	TPRXL
+3	14396088	T	C	C	downstream_gene_variant	MODIFIER	RNA5SP124
+3	16834093	G	A	A	intron_variant&non_coding_transcript_variant	MODIFIER	PLCL2
+3	17321044	A	T	T	intron_variant	MODIFIER	TBC1D5
+3	17714335	A	G	G	intron_variant	MODIFIER	TBC1D5
+3	18223357	G	T	T	intron_variant&non_coding_transcript_variant	MODIFIER	TBC1D5
+3	27071940	C	A	A	intergenic_variant	MODIFIER	
+3	28049060	A	G	G	intron_variant&non_coding_transcript_variant	MODIFIER	LINC01967
+3	29407162	C	G	G	intron_variant	MODIFIER	RBMS3
+3	30850489	A	C	C	intron_variant	MODIFIER	GADL1
+3	31928306	A	G	G	intron_variant	MODIFIER	OSBPL10
+3	33295114	A	C	C	intron_variant&non_coding_transcript_variant	MODIFIER	FBXL2
+3	35369670	C	A	A	intergenic_variant	MODIFIER	
+3	35852968	A	G	G	intergenic_variant	MODIFIER	
+3	40841288	C	G	G	intron_variant&non_coding_transcript_variant	MODIFIER	
+3	42042732	A	G	G	intron_variant	MODIFIER	TRAK1
+3	43300845	A	T	T	intron_variant	MODIFIER	SNRK
+3	45679663	C	G	G	3_prime_UTR_variant	MODIFIER	LIMD1
+3	47278513	G	A	A	upstream_gene_variant	MODIFIER	KLHL18
+3	50607540	G	T	T	3_prime_UTR_variant	MODIFIER	CISH
+3	51938505	A	C	C	intron_variant	MODIFIER	RRP9
+3	52551223	A	C	C	intron_variant	MODIFIER	PBRM1
+3	53890229	A	C	C	intron_variant&non_coding_transcript_variant	MODIFIER	SELENOK
+3	54476878	A	G	G	intron_variant&NMD_transcript_variant	MODIFIER	CACNA2D3
+3	56498075	G	A	A	intergenic_variant	MODIFIER	
+3	59390473	A	C	C	upstream_gene_variant	MODIFIER	
+3	59390477	G	T	T	upstream_gene_variant	MODIFIER	
+3	60234495	C	G	G	intron_variant	MODIFIER	FHIT
+3	61336137	A	G	G	intergenic_variant	MODIFIER	
+3	62031900	A	T	T	intron_variant	MODIFIER	PTPRG
+3	65495837	C	G	G	intron_variant	MODIFIER	MAGI1
+3	65646389	A	C	C	intron_variant	MODIFIER	MAGI1
+3	65646393	A	T	T	intron_variant	MODIFIER	MAGI1
+3	67049489	C	A	A	intergenic_variant	MODIFIER	
+3	67171535	C	A	A	intergenic_variant	MODIFIER	
+3	68210984	G	A	A	intron_variant	MODIFIER	TAFA1
+3	70536993	A	T	T	intergenic_variant	MODIFIER	
+3	71729894	T	G	G	intron_variant	MODIFIER	EIF4E3
+3	77116286	C	T	T	intron_variant	MODIFIER	ROBO2
+3	78217573	T	A	A	intergenic_variant	MODIFIER	
+3	78707293	G	T	T	intron_variant	MODIFIER	ROBO1
+3	79470965	A	G	G	intron_variant	MODIFIER	ROBO1
+3	81602982	T	A	A	intron_variant	MODIFIER	GBE1
+3	85864320	T	G	G	intron_variant	MODIFIER	CADM2
+3	89317931	C	G	G	intron_variant	MODIFIER	EPHA3
+3	94025666	T	G	G	intron_variant	MODIFIER	ARL13B
+3	95122590	A	G	G	intron_variant&non_coding_transcript_variant	MODIFIER	LINC00879
+3	97893707	T	G	G	intron_variant	MODIFIER	CRYBG3
+3	98142931	T	G	G	intron_variant&non_coding_transcript_variant	MODIFIER	
+3	98419553	A	C	C	intron_variant&non_coding_transcript_variant	MODIFIER	
+3	100278938	A	G	G	intron_variant	MODIFIER	TBC1D23
+3	100759796	G	A	A	intron_variant	MODIFIER	ABI3BP
+3	102736261	T	C	C	intergenic_variant	MODIFIER	
+3	104722032	T	A	A	intergenic_variant	MODIFIER	
+3	107513058	C	T	T	intergenic_variant	MODIFIER	
+3	110079723	A	G	G	intergenic_variant	MODIFIER	
+3	112572490	T	C	C	intron_variant	MODIFIER	SLC35A5
+3	117086573	T	G	G	intron_variant	MODIFIER	LSAMP
+3	118733084	T	C	C	intron_variant&non_coding_transcript_variant	MODIFIER	
+3	119603483	C	G	G	intron_variant	MODIFIER	PLA1A
+3	120252123	C	G	G	intron_variant	MODIFIER	GPR156
+3	122963608	A	C	C	intron_variant	MODIFIER	SEMA5B
+3	123658780	G	C	C	intron_variant	MODIFIER	MYLK
+3	124546100	T	C	C	intron_variant	MODIFIER	KALRN
+3	124641163	A	C	C	intron_variant	MODIFIER	KALRN
+3	125178028	T	C	C	intron_variant	MODIFIER	SLC12A8
+3	127577054	C	G	G	missense_variant	MODERATE	TPRA1
+3	128509170	C	T	T	intergenic_variant	MODIFIER	
+3	128546819	C	G	G	intergenic_variant	MODIFIER	
+3	128546839	G	T	T	intergenic_variant	MODIFIER	
+3	139764293	G	C	C	intron_variant&non_coding_transcript_variant	MODIFIER	COPB2-DT
+3	141621401	A	T	T	intergenic_variant	MODIFIER	
+3	145107542	A	T	T	intergenic_variant	MODIFIER	
+3	154722784	G	C	C	intergenic_variant	MODIFIER	
+3	155535613	G	C	C	intron_variant	MODIFIER	PLCH1
+3	157736840	A	G	G	intergenic_variant	MODIFIER	
+3	158136736	C	G	G	intron_variant	MODIFIER	RSRC1
+3	163755912	A	T	T	intergenic_variant	MODIFIER	
+3	165281439	A	G	G	intron_variant&non_coding_transcript_variant	MODIFIER	LINC01322
+3	165825908	T	G	G	intron_variant	MODIFIER	BCHE
+3	165835425	A	G	G	intron_variant	MODIFIER	BCHE
+3	167922605	G	C	C	non_coding_transcript_exon_variant	MODIFIER	LRRC77P
+3	168975578	T	G	G	intergenic_variant	MODIFIER	
+3	170653289	A	G	G	downstream_gene_variant	MODIFIER	RPL28P1
+3	171855618	G	T	T	intron_variant	MODIFIER	TMEM212
+3	173892622	A	T	T	intron_variant	MODIFIER	NLGN1
+3	175283555	A	T	T	intron_variant&NMD_transcript_variant	MODIFIER	NAALADL2
+3	175985248	C	A	A	intergenic_variant	MODIFIER	
+3	176857312	C	G	G	intron_variant&non_coding_transcript_variant	MODIFIER	LINC01208
+3	177564351	A	G	G	intron_variant&non_coding_transcript_variant	MODIFIER	LINC00578
+3	177925359	T	C	C	intergenic_variant	MODIFIER	
+3	178524734	T	G	G	downstream_gene_variant	MODIFIER	KCNMB2-AS1
+3	178768463	A	C	C	intron_variant	MODIFIER	KCNMB2
+3	180408883	A	G	G	upstream_gene_variant	MODIFIER	LINC02053
+3	181287014	A	T	T	intron_variant&non_coding_transcript_variant	MODIFIER	SOX2-OT
+3	181681799	G	C	C	intron_variant&non_coding_transcript_variant	MODIFIER	SOX2-OT
+3	182888067	T	G	G	intron_variant	MODIFIER	ATP11B
+3	182894774	A	T	T	intron_variant	MODIFIER	ATP11B
+3	183496628	T	C	C	intron_variant	MODIFIER	KLHL6
+3	184096591	T	A	A	upstream_gene_variant	MODIFIER	HTR3E
+3	186012543	A	C	C	intergenic_variant	MODIFIER	
+3	188268151	G	C	C	intron_variant	MODIFIER	LPP
+3	190294323	G	T	T	intergenic_variant	MODIFIER	
+3	192618532	A	T	T	intron_variant	MODIFIER	FGF12
+3	193440815	G	T	T	intron_variant	MODIFIER	ATP13A4
+3	194100415	A	G	G	intron_variant&non_coding_transcript_variant	MODIFIER	
+3	195000982	G	C	C	intergenic_variant	MODIFIER	
+3	196716484	TAAAAAA	TAAAAA	-	intron_variant	MODIFIER	PIGX
+4	1661459	C	T	T	intron_variant	MODIFIER	FAM53A
+4	1874472	C	G	G	intron_variant	MODIFIER	NSD2
+4	2248947	C	G	G	3_prime_UTR_variant	MODIFIER	MXD4
+4	6053785	C	T	T	3_prime_UTR_variant	MODIFIER	JAKMIP1
+4	7520210	C	G	G	intron_variant	MODIFIER	SORCS2
+4	10986696	C	G	G	intergenic_variant	MODIFIER	
+4	10986717	C	T	T	intergenic_variant	MODIFIER	
+4	12440765	A	G	G	intergenic_variant	MODIFIER	
+4	13604424	T	A	A	stop_gained	HIGH	BOD1L1
+4	14344588	A	C	C	intergenic_variant	MODIFIER	
+4	14494121	G	C	C	intron_variant&non_coding_transcript_variant	MODIFIER	LINC00504
+4	15171446	T	C	C	intron_variant&non_coding_transcript_variant	MODIFIER	C1QTNF7-AS1
+4	15421541	T	C	C	intron_variant	MODIFIER	C1QTNF7
+4	16291845	G	T	T	intron_variant&non_coding_transcript_variant	MODIFIER	TAPT1-AS1
+4	19024966	T	G	G	intergenic_variant	MODIFIER	
+4	22800164	T	A	A	intron_variant	MODIFIER	GBA3
+4	23234598	C	G	G	downstream_gene_variant	MODIFIER	
+4	30871209	A	G	G	intron_variant	MODIFIER	PCDH7
+4	31273101	A	G	G	intergenic_variant	MODIFIER	
+4	31491091	A	C	C	intergenic_variant	MODIFIER	
+4	31491113	T	G	G	intergenic_variant	MODIFIER	
+4	32215030	T	C	C	intron_variant&non_coding_transcript_variant	MODIFIER	LINC02506
+4	33551419	C	G	G	intron_variant&non_coding_transcript_variant	MODIFIER	
+4	36264965	C	A	A	intron_variant&non_coding_transcript_variant	MODIFIER	
+4	36352303	G	C	C	intron_variant&non_coding_transcript_variant	MODIFIER	
+4	38226993	A	T	T	intergenic_variant	MODIFIER	
+4	45276522	G	T	T	intergenic_variant	MODIFIER	
+4	52852971	G	T	T	intron_variant&non_coding_transcript_variant	MODIFIER	LINC01618
+4	55883550	A	T	T	intron_variant	MODIFIER	EXOC1
+4	56594325	A	T	T	intron_variant&non_coding_transcript_variant	MODIFIER	THEGL
+4	60624656	A	G	G	intergenic_variant	MODIFIER	
+4	65032168	G	T	T	downstream_gene_variant	MODIFIER	
+4	69983815	G	A	A	intergenic_variant	MODIFIER	
+4	71936279	T	G	G	intergenic_variant	MODIFIER	
+4	73274425	T	A	A	intron_variant&non_coding_transcript_variant	MODIFIER	ANKRD17-DT
+4	73797566	T	G	G	intergenic_variant	MODIFIER	
+4	74438632	G	A	A	intron_variant&non_coding_transcript_variant	MODIFIER	
+4	74438633	C	G	G	intron_variant&non_coding_transcript_variant	MODIFIER	
+4	74494934	T	G	G	intergenic_variant	MODIFIER	
+4	77710428	C	G	G	downstream_gene_variant	MODIFIER	CNOT6L
+4	77964430	A	T	T	non_coding_transcript_exon_variant	MODIFIER	HMGB1P44
+4	84406244	T	G	G	intergenic_variant	MODIFIER	
+4	84908960	C	G	G	intron_variant	MODIFIER	WDFY3
+4	84908983	T	G	G	intron_variant	MODIFIER	WDFY3
+4	86933586	A	T	T	upstream_gene_variant	MODIFIER	AFF1
+4	86933588	A	C	C	upstream_gene_variant	MODIFIER	AFF1
+4	87140623	T	C	C	3_prime_UTR_variant	MODIFIER	AFF1
+4	89624543	A	C	C	intron_variant&non_coding_transcript_variant	MODIFIER	
+4	90563112	A	G	G	intron_variant	MODIFIER	CCSER1
+4	90612043	C	A	A	intron_variant	MODIFIER	CCSER1
+4	90612045	G	A	A	intron_variant	MODIFIER	CCSER1
+4	96767339	T	C	C	intron_variant&non_coding_transcript_variant	MODIFIER	LINC02267
+4	99739976	T	A	A	intergenic_variant	MODIFIER	
+4	99854714	T	A	A	intron_variant	MODIFIER	DAPP1
+4	100054012	G	A	A	intron_variant&non_coding_transcript_variant	MODIFIER	H2AZ1-DT
+4	100201325	C	T	T	intron_variant&non_coding_transcript_variant	MODIFIER	DDIT4L-AS1
+4	101855004	T	C	C	intron_variant	MODIFIER	BANK1
+4	106043978	T	G	G	3_prime_UTR_variant	MODIFIER	TBCK
+4	107342187	C	T	T	intergenic_variant	MODIFIER	
+4	107852077	T	C	C	intron_variant	MODIFIER	SGMS2
+4	112230796	A	T	T	upstream_gene_variant	MODIFIER	AP1AR
+4	113478180	T	A	A	intron_variant	MODIFIER	CAMK2D
+4	113678797	A	G	G	intron_variant	MODIFIER	CAMK2D
+4	115627609	T	A	A	upstream_gene_variant	MODIFIER	RPF2P2
+4	119496902	A	C	C	downstream_gene_variant	MODIFIER	PDE5A
+4	119709536	T	C	C	intergenic_variant	MODIFIER	
+4	119734823	A	T	T	intergenic_variant	MODIFIER	
+4	120433329	T	G	G	intron_variant&non_coding_transcript_variant	MODIFIER	MAD2L1-DT
+4	125425917	G	C	C	intron_variant	MODIFIER	FAT4
+4	125526016	G	C	C	intergenic_variant	MODIFIER	
+4	127512896	C	A	A	intergenic_variant	MODIFIER	
+4	131549982	T	A	A	intron_variant&non_coding_transcript_variant	MODIFIER	LINC02377
+4	132069471	T	G	G	intron_variant&non_coding_transcript_variant	MODIFIER	
+4	134844204	A	T	T	intergenic_variant	MODIFIER	
+4	134951993	C	T	T	downstream_gene_variant	MODIFIER	
+4	135520391	T	G	G	intergenic_variant	MODIFIER	
+4	136257764	A	C	C	intron_variant&non_coding_transcript_variant	MODIFIER	
+4	136301392	A	C	C	intron_variant&non_coding_transcript_variant	MODIFIER	
+4	141718057	C	G	G	intron_variant	MODIFIER	IL15
+4	144231402	A	G	G	intron_variant&non_coding_transcript_variant	MODIFIER	
+4	144676946	C	G	G	intron_variant	MODIFIER	HHIP
+4	145125743	C	G	G	intron_variant	MODIFIER	ABCE1
+4	146411716	T	A	A	intron_variant	MODIFIER	SLC10A7
+4	146834984	A	G	G	intron_variant	MODIFIER	TTC29
+4	147039304	A	G	G	intergenic_variant	MODIFIER	
+4	148670691	T	G	G	intron_variant&non_coding_transcript_variant	MODIFIER	
+4	150064469	T	G	G	intergenic_variant	MODIFIER	
+4	150621602	T	C	C	intron_variant	MODIFIER	LRBA
+4	157053383	C	G	G	intergenic_variant	MODIFIER	
+4	158187334	A	G	G	intron_variant&non_coding_transcript_variant	MODIFIER	GASK1B-AS1
+4	158599532	A	C	C	intron_variant	MODIFIER	RXFP1
+4	159028733	A	T	T	intron_variant	MODIFIER	C4orf45
+4	159777881	G	A	A	upstream_gene_variant	MODIFIER	LINC02233
+4	161945796	G	A	A	intron_variant	MODIFIER	FSTL5
+4	163143064	A	C	C	intron_variant	MODIFIER	NAF1
+4	164040915	T	G	G	intron_variant	MODIFIER	MARCHF1
+4	164800038	T	A	A	intron_variant	MODIFIER	SMIM31
+4	167375552	T	C	C	intergenic_variant	MODIFIER	
+4	167810763	A	T	T	intergenic_variant	MODIFIER	
+4	168819194	C	A	A	intron_variant	MODIFIER	PALLD
+4	171245083	A	T	T	intergenic_variant	MODIFIER	
+4	172428771	C	G	G	intron_variant&non_coding_transcript_variant	MODIFIER	GALNTL6
+4	174044134	A	G	G	intergenic_variant	MODIFIER	
+4	175616626	A	G	G	downstream_gene_variant	MODIFIER	
+4	177234165	T	A	A	intron_variant&non_coding_transcript_variant	MODIFIER	
+4	180043000	T	G	G	intron_variant&non_coding_transcript_variant	MODIFIER	
+4	180058851	G	T	T	intron_variant&non_coding_transcript_variant	MODIFIER	
+4	182640258	A	T	T	intron_variant	MODIFIER	TENM3
+4	184105693	T	A	A	intron_variant	MODIFIER	ENPP6
+4	184105696	T	A	A	intron_variant	MODIFIER	ENPP6
+4	184143899	G	C	C	intron_variant	MODIFIER	ENPP6
+4	184605704	A	C	C	intron_variant&non_coding_transcript_variant	MODIFIER	LINC02365
+4	186930361	A	G	G	intergenic_variant	MODIFIER	
+4	190182183	T	A	A	intron_variant&non_coding_transcript_variant	MODIFIER	DUX4
+5	5743837	G	A	A	intergenic_variant	MODIFIER	
+5	6226533	A	G	G	intergenic_variant	MODIFIER	
+5	7566140	C	A	A	intron_variant	MODIFIER	ADCY2
+5	11847991	T	C	C	intron_variant	MODIFIER	CTNND2
+5	16526560	T	A	A	intron_variant	MODIFIER	RETREG1
+5	19295521	G	A	A	intergenic_variant	MODIFIER	
+5	19494951	G	T	T	intron_variant	MODIFIER	CDH18
+5	19878457	A	C	C	intron_variant	MODIFIER	CDH18
+5	20973948	G	A	A	intron_variant&non_coding_transcript_variant	MODIFIER	
+5	21887932	T	G	G	intron_variant	MODIFIER	CDH12
+5	22989377	T	C	C	intergenic_variant	MODIFIER	
+5	24134046	T	C	C	intron_variant&non_coding_transcript_variant	MODIFIER	LINC02899
+5	24134048	A	G	G	intron_variant&non_coding_transcript_variant	MODIFIER	LINC02899
+5	28132869	A	T	T	intergenic_variant	MODIFIER	
+5	28837079	C	A	A	intron_variant&non_coding_transcript_variant	MODIFIER	LINC02109
+5	30030609	T	C	C	intergenic_variant	MODIFIER	
+5	32206540	T	C	C	intergenic_variant	MODIFIER	
+5	33451747	A	T	T	intron_variant	MODIFIER	TARS1
+5	34755401	G	C	C	intron_variant	MODIFIER	RAI14
+5	35185328	A	T	T	intron_variant	MODIFIER	PRLR
+5	37300137	A	G	G	intron_variant	MODIFIER	NUP155
+5	38722968	A	G	G	upstream_gene_variant	MODIFIER	OSMR-DT
+5	38837968	A	C	C	intron_variant&non_coding_transcript_variant	MODIFIER	OSMR-DT
+5	42337848	G	T	T	intergenic_variant	MODIFIER	
+5	44228198	A	G	G	intergenic_variant	MODIFIER	
+5	54137839	A	C	C	intron_variant	MODIFIER	ARL15
+5	54141454	A	C	C	intron_variant	MODIFIER	ARL15
+5	55365641	A	T	T	intron_variant	MODIFIER	MTREX
+5	55417063	C	A	A	intron_variant	MODIFIER	MTREX
+5	57122334	AG	A	-	intron_variant&non_coding_transcript_variant	MODIFIER	C12orf29P1
+5	58656545	A	G	G	intron_variant	MODIFIER	RAB3C
+5	58656549	T	A	A	intron_variant	MODIFIER	RAB3C
+5	61392643	G	T	T	intron_variant	MODIFIER	ZSWIM6
+5	64730952	G	C	C	intron_variant&non_coding_transcript_variant	MODIFIER	SREK1IP1
+5	65071620	G	C	C	intron_variant	MODIFIER	CWC27
+5	66343338	A	C	C	intron_variant&non_coding_transcript_variant	MODIFIER	
+5	71568892	A	C	C	downstream_gene_variant	MODIFIER	BDP1
+5	82728919	A	T	T	intergenic_variant	MODIFIER	
+5	84412750	T	A	A	intron_variant&non_coding_transcript_variant	MODIFIER	EDIL3-DT
+5	85624325	A	T	T	intergenic_variant	MODIFIER	
+5	86129519	T	G	G	intergenic_variant	MODIFIER	
+5	87286396	T	A	A	intron_variant	MODIFIER	RASA1
+5	87431058	G	C	C	intron_variant&non_coding_transcript_variant	MODIFIER	
+5	89785927	A	G	G	intergenic_variant	MODIFIER	
+5	94033010	C	A	A	intron_variant	MODIFIER	FAM172A
+5	96501494	T	A	A	intron_variant&non_coding_transcript_variant	MODIFIER	
+5	97539980	C	A	A	intron_variant&non_coding_transcript_variant	MODIFIER	LINC01340
+5	97794947	A	C	C	downstream_gene_variant	MODIFIER	
+5	98328388	T	G	G	intergenic_variant	MODIFIER	
+5	98858279	C	T	T	3_prime_UTR_variant&NMD_transcript_variant	MODIFIER	CHD1
+5	98930477	G	T	T	upstream_gene_variant	MODIFIER	CHD1
+5	99228655	C	T	T	intergenic_variant	MODIFIER	
+5	99362788	T	A	A	intergenic_variant	MODIFIER	
+5	100225956	A	G	G	intergenic_variant	MODIFIER	
+5	100814814	T	A	A	intron_variant	MODIFIER	ST8SIA4
+5	102574676	C	T	T	intergenic_variant	MODIFIER	
+5	103941192	T	G	G	intergenic_variant	MODIFIER	
+5	105006317	T	G	G	intron_variant&non_coding_transcript_variant	MODIFIER	
+5	105006321	C	A	A	intron_variant&non_coding_transcript_variant	MODIFIER	
+5	105627638	A	G	G	intergenic_variant	MODIFIER	
+5	110512159	T	G	G	downstream_gene_variant	MODIFIER	MIR548F3
+5	112096558	A	T	T	intergenic_variant	MODIFIER	
+5	112765710	T	A	A	intron_variant	MODIFIER	APC
+5	113814016	A	C	C	intergenic_variant	MODIFIER	
+5	115922312	CT	C	-	intergenic_variant	MODIFIER	
+5	116365621	G	A	A	intron_variant&non_coding_transcript_variant	MODIFIER	COMMD10
+5	117145268	T	C	C	intergenic_variant	MODIFIER	
+5	124190636	A	C	C	intron_variant&non_coding_transcript_variant	MODIFIER	LINC01170
+5	126731033	T	G	G	intergenic_variant	MODIFIER	
+5	126731053	G	T	T	intergenic_variant	MODIFIER	
+5	127070461	G	C	C	intron_variant	MODIFIER	C5orf63
+5	127207922	C	T	T	intergenic_variant	MODIFIER	
+5	127495459	G	T	T	intergenic_variant	MODIFIER	
+5	132020719	C	T	T	intergenic_variant	MODIFIER	
+5	132854198	A	G	G	intergenic_variant	MODIFIER	
+5	133819514	A	C	C	intergenic_variant	MODIFIER	
+5	134426914	G	T	T	downstream_gene_variant	MODIFIER	
+5	136296529	G	A	A	intron_variant	MODIFIER	TRPC7
+5	136469208	G	A	A	intron_variant&non_coding_transcript_variant	MODIFIER	
+5	142605876	T	C	C	intron_variant	MODIFIER	FGF1
+5	144631850	A	T	T	intergenic_variant	MODIFIER	
+5	144631851	A	G	G	intergenic_variant	MODIFIER	
+5	147958236	A	T	T	intergenic_variant	MODIFIER	
+5	149386989	A	G	G	intron_variant&non_coding_transcript_variant	MODIFIER	IL17B
+5	149386991	C	G	G	intron_variant&non_coding_transcript_variant	MODIFIER	IL17B
+5	151038019	C	T	T	intron_variant	MODIFIER	TNIP1
+5	154185739	A	T	T	upstream_gene_variant	MODIFIER	GALNT10
+5	154185762	A	T	T	upstream_gene_variant	MODIFIER	GALNT10
+5	155878440	T	C	C	intron_variant	MODIFIER	SGCD
+5	155885492	A	C	C	intron_variant	MODIFIER	SGCD
+5	156332381	A	C	C	intron_variant	MODIFIER	SGCD
+5	158561716	T	C	C	intron_variant&non_coding_transcript_variant	MODIFIER	
+5	163180459	T	C	C	intron_variant&non_coding_transcript_variant	MODIFIER	
+5	163403398	A	T	T	intron_variant&non_coding_transcript_variant	MODIFIER	
+5	163553075	T	G	G	intergenic_variant	MODIFIER	
+5	163953347	T	G	G	intergenic_variant	MODIFIER	
+5	166179204	A	C	C	intergenic_variant	MODIFIER	
+5	168263322	T	A	A	3_prime_UTR_variant	MODIFIER	TENM2
+5	170201229	A	C	C	upstream_gene_variant	MODIFIER	LINC01187
+5	170593518	A	G	G	intron_variant	MODIFIER	KCNIP1
+5	174513354	T	C	C	intron_variant&non_coding_transcript_variant	MODIFIER	LINC01411
+5	174533177	G	A	A	downstream_gene_variant	MODIFIER	LINC01411
+5	179730359	T	A	A	3_prime_UTR_variant	MODIFIER	CANX
+6	8137036	T	C	C	intron_variant&non_coding_transcript_variant	MODIFIER	
+6	9635355	T	C	C	intron_variant&non_coding_transcript_variant	MODIFIER	OFCC1
+6	11727010	G	C	C	intron_variant	MODIFIER	ADTRP
+6	14124107	T	C	C	intron_variant	MODIFIER	CD83
+6	15160635	G	C	C	intergenic_variant	MODIFIER	
+6	17369042	G	C	C	intergenic_variant	MODIFIER	
+6	25407599	C	T	T	intron_variant	MODIFIER	CARMIL1
+6	25622158	G	C	C	downstream_gene_variant	MODIFIER	CARMIL1
+6	25956266	G	C	C	intergenic_variant	MODIFIER	
+6	29559935	A	C	C	intron_variant	MODIFIER	GABBR1
+6	31498238	T	A	A	synonymous_variant	LOW	MICB
+6	34516410	A	T	T	intron_variant	MODIFIER	PACSIN1
+6	36767930	C	T	T	intron_variant	MODIFIER	CPNE5
+6	39987347	T	C	C	intron_variant&non_coding_transcript_variant	MODIFIER	TUBBP9
+6	41293423	G	T	T	intergenic_variant	MODIFIER	
+6	43317824	G	C	C	intron_variant&NMD_transcript_variant	MODIFIER	ZNF318
+6	45024183	A	C	C	intron_variant	MODIFIER	SUPT3H
+6	46007644	T	A	A	intron_variant	MODIFIER	CLIC5
+6	46773950	C	G	G	intergenic_variant	MODIFIER	
+6	53754963	A	G	G	intron_variant&non_coding_transcript_variant	MODIFIER	
+6	54753294	A	T	T	intergenic_variant	MODIFIER	
+6	56536416	G	T	T	intron_variant	MODIFIER	DST
+6	57734374	A	T	T	intergenic_variant	MODIFIER	
+6	58051318	T	G	G	intron_variant&non_coding_transcript_variant	MODIFIER	
+6	61595011	A	C	C	intergenic_variant	MODIFIER	
+6	65231436	T	C	C	intron_variant	MODIFIER	EYS
+6	65785405	A	C	C	upstream_gene_variant	MODIFIER	SLC25A51P1
+6	65913437	T	G	G	intergenic_variant	MODIFIER	
+6	67153093	A	C	C	intergenic_variant	MODIFIER	
+6	69169564	T	A	A	intron_variant	MODIFIER	ADGRB3
+6	69169590	T	A	A	intron_variant	MODIFIER	ADGRB3
+6	71486120	T	G	G	intergenic_variant	MODIFIER	
+6	76062753	A	T	T	intron_variant	MODIFIER	IMPG1
+6	77175061	T	G	G	intergenic_variant	MODIFIER	
+6	79544941	C	A	A	downstream_gene_variant	MODIFIER	
+6	81297462	T	C	C	intergenic_variant	MODIFIER	
+6	81893783	T	G	G	intron_variant&non_coding_transcript_variant	MODIFIER	LINC02542
+6	82024575	T	A	A	intron_variant&non_coding_transcript_variant	MODIFIER	LINC02542
+6	82048956	G	T	T	intron_variant&non_coding_transcript_variant	MODIFIER	LINC02542
+6	83479786	A	C	C	intergenic_variant	MODIFIER	
+6	85855767	A	T	T	intergenic_variant	MODIFIER	
+6	86935016	T	C	C	upstream_gene_variant	MODIFIER	HTR1E
+6	87426606	C	A	A	non_coding_transcript_exon_variant	MODIFIER	CFAP206
+6	88766509	A	T	T	intron_variant	MODIFIER	RNGTT
+6	89089936	T	A	A	downstream_gene_variant	MODIFIER	PNRC1
+6	90681424	T	C	C	intergenic_variant	MODIFIER	
+6	91730266	C	G	G	upstream_gene_variant	MODIFIER	MTCO1P56
+6	91789035	T	A	A	intergenic_variant	MODIFIER	
+6	94668708	A	G	G	intron_variant&non_coding_transcript_variant	MODIFIER	
+6	102449294	T	A	A	downstream_gene_variant	MODIFIER	
+6	106864693	T	G	G	intergenic_variant	MODIFIER	
+6	107070082	T	A	A	missense_variant	MODERATE	BEND3
+6	107611750	C	A	A	intron_variant	MODIFIER	SOBP
+6	109827384	C	G	G	downstream_gene_variant	MODIFIER	FIG4
+6	111354821	G	T	T	intron_variant	MODIFIER	REV3L
+6	111761404	T	G	G	upstream_gene_variant	MODIFIER	FYN
+6	112368696	T	A	A	upstream_gene_variant	MODIFIER	FEM1AP3
+6	113475925	C	G	G	intergenic_variant	MODIFIER	
+6	118174550	T	G	G	intron_variant	MODIFIER	SLC35F1
+6	124398565	G	T	T	intron_variant	MODIFIER	NKAIN2
+6	124514536	T	C	C	intron_variant	MODIFIER	NKAIN2
+6	125445828	T	C	C	upstream_gene_variant	MODIFIER	
+6	125456257	G	C	C	intergenic_variant	MODIFIER	
+6	128072944	T	G	G	intron_variant	MODIFIER	PTPRK
+6	130127600	A	T	T	intron_variant	MODIFIER	L3MBTL3
+6	130935037	A	G	G	intron_variant	MODIFIER	EPB41L2
+6	132471449	T	A	A	intron_variant	MODIFIER	STX7
+6	133822005	T	C	C	intron_variant&non_coding_transcript_variant	MODIFIER	TARID
+6	137694506	C	T	T	intron_variant&non_coding_transcript_variant	MODIFIER	LINC03004
+6	141512527	T	C	C	intergenic_variant	MODIFIER	
+6	142156450	T	A	A	intron_variant	MODIFIER	VTA1
+6	142156451	T	C	C	intron_variant	MODIFIER	VTA1
+6	142245751	G	C	C	intergenic_variant	MODIFIER	
+6	145009908	T	G	G	intergenic_variant	MODIFIER	
+6	145211815	A	T	T	intergenic_variant	MODIFIER	
+6	149981256	A	C	C	downstream_gene_variant	MODIFIER	
+6	156254592	G	A	A	intron_variant&non_coding_transcript_variant	MODIFIER	
+6	156306919	A	G	G	intron_variant&non_coding_transcript_variant	MODIFIER	
+6	160831955	T	G	G	intergenic_variant	MODIFIER	
+6	161098197	A	G	G	intron_variant	MODIFIER	MAP3K4
+6	164352660	T	C	C	upstream_gene_variant	MODIFIER	
+6	164791390	G	A	A	non_coding_transcript_exon_variant	MODIFIER	
+6	165997322	A	T	T	intergenic_variant	MODIFIER	
+6	166823414	A	G	G	intron_variant	MODIFIER	RPS6KA2
+6	169248434	T	A	A	stop_gained	HIGH	THBS2
+6	169927829	T	G	G	intergenic_variant	MODIFIER	
+7	3771754	C	G	G	intron_variant	MODIFIER	SDK1
+7	4687274	T	G	G	intron_variant	MODIFIER	FOXK1
+7	4902466	G	T	T	downstream_gene_variant	MODIFIER	MMD2
+7	5282944	G	C	C	upstream_gene_variant	MODIFIER	SLC29A4
+7	12345331	T	G	G	intron_variant	MODIFIER	VWDE
+7	13187745	A	T	T	intron_variant&non_coding_transcript_variant	MODIFIER	
+7	13509924	T	A	A	intron_variant&non_coding_transcript_variant	MODIFIER	
+7	18800037	C	T	T	intron_variant	MODIFIER	HDAC9
+7	18856323	T	G	G	intron_variant	MODIFIER	HDAC9
+7	20112610	T	G	G	intron_variant&non_coding_transcript_variant	MODIFIER	
+7	20112615	G	T	T	intron_variant&non_coding_transcript_variant	MODIFIER	
+7	24234596	T	A	A	intron_variant&non_coding_transcript_variant	MODIFIER	
+7	24234597	A	G	G	intron_variant&non_coding_transcript_variant	MODIFIER	
+7	24577553	T	G	G	intron_variant	MODIFIER	PALS2
+7	24781512	C	T	T	intron_variant&non_coding_transcript_variant	MODIFIER	
+7	26454710	A	C	C	intron_variant&non_coding_transcript_variant	MODIFIER	LINC02981
+7	28276063	C	A	A	downstream_gene_variant	MODIFIER	PPIAP80
+7	36855502	T	A	A	3_prime_UTR_variant	MODIFIER	ELMO1
+7	37171027	T	G	G	intron_variant	MODIFIER	ELMO1
+7	45046798	C	A	A	intron_variant	MODIFIER	CCM2
+7	46649798	A	C	C	intergenic_variant	MODIFIER	
+7	46649801	A	T	T	intergenic_variant	MODIFIER	
+7	47933580	A	G	G	intron_variant	MODIFIER	PKD1L1
+7	48500711	C	T	T	intron_variant	MODIFIER	ABCA13
+7	49880521	A	G	G	intron_variant	MODIFIER	VWC2
+7	50190651	G	T	T	intergenic_variant	MODIFIER	
+7	52532235	A	G	G	intergenic_variant	MODIFIER	
+7	52532257	A	G	G	intergenic_variant	MODIFIER	
+7	52662971	T	C	C	intergenic_variant	MODIFIER	
+7	56242303	C	A	A	intergenic_variant	MODIFIER	
+7	56656557	T	A	A	upstream_gene_variant	MODIFIER	
+7	62802960	T	C	C	intergenic_variant	MODIFIER	
+7	68071795	G	C	C	intergenic_variant	MODIFIER	
+7	68608829	T	G	G	intergenic_variant	MODIFIER	
+7	75662061	C	A	A	intron_variant	MODIFIER	HIP1
+7	77589541	T	G	G	intron_variant	MODIFIER	PTPN12
+7	77589563	A	T	T	intron_variant	MODIFIER	PTPN12
+7	80646457	A	C	C	intron_variant	MODIFIER	CD36
+7	80677189	C	G	G	downstream_gene_variant	MODIFIER	CD36
+7	83210706	G	C	C	intergenic_variant	MODIFIER	
+7	83592104	A	G	G	intron_variant&non_coding_transcript_variant	MODIFIER	SEMA3E
+7	84335916	A	C	C	intron_variant	MODIFIER	SEMA3A
+7	85343188	T	G	G	intergenic_variant	MODIFIER	
+7	89594995	A	G	G	intergenic_variant	MODIFIER	
+7	92466157	A	C	C	intron_variant&non_coding_transcript_variant	MODIFIER	
+7	93099380	A	G	G	downstream_gene_variant	MODIFIER	SAMD9
+7	96834541	C	G	G	intergenic_variant	MODIFIER	
+7	98848638	G	C	C	missense_variant	MODERATE	TMEM130
+7	101339005	T	C	C	intergenic_variant	MODIFIER	
+7	105207619	C	T	T	intron_variant	MODIFIER	SRPK2
+7	107515803	T	C	C	intron_variant	MODIFIER	COG5
+7	107515824	T	C	C	intron_variant	MODIFIER	COG5
+7	107787803	A	T	T	intron_variant	MODIFIER	SLC26A3
+7	115489035	T	A	A	intergenic_variant	MODIFIER	
+7	118058567	A	C	C	intergenic_variant	MODIFIER	
+7	120842694	A	C	C	intron_variant	MODIFIER	TSPAN12
+7	128890942	C	T	T	synonymous_variant	LOW	KCP
+7	130916031	T	G	G	upstream_gene_variant	MODIFIER	LINC-PINT
+7	131355122	T	G	G	intron_variant	MODIFIER	MKLN1
+7	134050658	G	A	A	intron_variant	MODIFIER	EXOC4
+7	135465707	A	T	T	intron_variant	MODIFIER	CNOT4
+7	135465713	G	C	C	intron_variant	MODIFIER	CNOT4
+7	137675787	G	C	C	intron_variant	MODIFIER	DGKI
+7	139963393	T	C	C	intron_variant	MODIFIER	TBXAS1
+7	144412869	T	C	C	upstream_gene_variant	MODIFIER	NOBOX
+7	145550140	C	G	G	intergenic_variant	MODIFIER	
+7	148973911	T	A	A	intergenic_variant	MODIFIER	
+8	910456	C	T	T	intron_variant	MODIFIER	DLGAP2
+8	2115422	A	T	T	intron_variant	MODIFIER	MYOM2
+8	4652104	T	C	C	intron_variant	MODIFIER	CSMD1
+8	6693073	A	G	G	intron_variant&non_coding_transcript_variant	MODIFIER	MCPH1-AS1
+8	12726695	C	A	A	intron_variant	MODIFIER	LONRF1
+8	12791758	T	C	C	upstream_gene_variant	MODIFIER	LINC00681
+8	14590608	A	T	T	intron_variant	MODIFIER	SGCZ
+8	14863145	G	A	A	intron_variant	MODIFIER	SGCZ
+8	15498638	A	G	G	intron_variant&non_coding_transcript_variant	MODIFIER	TUSC3
+8	15872685	C	A	A	intergenic_variant	MODIFIER	
+8	16810690	C	A	A	intron_variant&non_coding_transcript_variant	MODIFIER	
+8	17240705	A	G	G	intron_variant	MODIFIER	CNOT7
+8	18084440	G	C	C	intron_variant	MODIFIER	ASAH1
+8	20262050	C	G	G	intron_variant	MODIFIER	LZTS1
+8	23814270	A	T	T	intergenic_variant	MODIFIER	
+8	26382031	G	A	A	upstream_gene_variant	MODIFIER	BNIP3L
+8	30550414	T	C	C	intron_variant	MODIFIER	RBPMS
+8	31769417	C	T	T	intron_variant	MODIFIER	NRG1
+8	32557474	T	A	A	intron_variant	MODIFIER	NRG1
+8	32557477	A	G	G	intron_variant	MODIFIER	NRG1
+8	35118089	T	G	G	intergenic_variant	MODIFIER	
+8	35246247	A	T	T	intron_variant	MODIFIER	UNC5D
+8	35675798	C	T	T	intron_variant	MODIFIER	UNC5D
+8	36952918	A	C	C	intergenic_variant	MODIFIER	
+8	37962947	A	C	C	downstream_gene_variant	MODIFIER	ADRB3
+8	39221310	T	G	G	intron_variant	MODIFIER	ADAM32
+8	42154609	T	A	A	splice_region_variant&splice_polypyrimidine_tract_variant&intron_variant	LOW	AP3M2
+8	49945919	A	G	G	intron_variant	MODIFIER	SNTG1
+8	52986756	A	T	T	intergenic_variant	MODIFIER	
+8	56449159	G	T	T	upstream_gene_variant	MODIFIER	PENK
+8	57802731	T	C	C	intron_variant&non_coding_transcript_variant	MODIFIER	
+8	59072421	C	A	A	intron_variant	MODIFIER	TOX
+8	61431441	A	G	G	intron_variant	MODIFIER	CLVS1
+8	63983635	T	A	A	intron_variant&non_coding_transcript_variant	MODIFIER	LINC01414
+8	64196561	T	C	C	intron_variant&non_coding_transcript_variant	MODIFIER	LINC01414
+8	67364321	A	C	C	intergenic_variant	MODIFIER	
+8	69682429	T	C	C	intron_variant	MODIFIER	SLCO5A1
+8	69682431	T	G	G	intron_variant	MODIFIER	SLCO5A1
+8	71299147	G	A	A	synonymous_variant	LOW	EYA1
+8	71299153	C	T	T	missense_variant	MODERATE	EYA1
+8	71435273	T	A	A	intron_variant&non_coding_transcript_variant	MODIFIER	EYA1
+8	74050597	T	C	C	downstream_gene_variant	MODIFIER	RNU6-1300P
+8	74601114	G	C	C	downstream_gene_variant	MODIFIER	PCBP2P2
+8	75435022	T	A	A	intron_variant	MODIFIER	HNF4G
+8	76837440	A	T	T	intron_variant	MODIFIER	ZFHX4
+8	83197100	A	G	G	downstream_gene_variant	MODIFIER	
+8	86765177	A	T	T	downstream_gene_variant	MODIFIER	
+8	90096556	T	G	G	upstream_gene_variant	MODIFIER	CALB1
+8	90887104	G	A	A	intron_variant	MODIFIER	NECAB1
+8	91369445	T	A	A	intron_variant	MODIFIER	SLC26A7
+8	91369449	A	T	T	intron_variant	MODIFIER	SLC26A7
+8	91624235	T	C	C	intron_variant&non_coding_transcript_variant	MODIFIER	
+8	91977603	G	T	T	intron_variant	MODIFIER	RUNX1T1
+8	92618262	A	C	C	intron_variant&non_coding_transcript_variant	MODIFIER	
+8	92880755	A	C	C	downstream_gene_variant	MODIFIER	TRIQK
+8	93985351	G	C	C	intergenic_variant	MODIFIER	
+8	95289320	A	G	G	intron_variant&non_coding_transcript_variant	MODIFIER	CFAP418-AS1
+8	95346669	G	A	A	intron_variant&non_coding_transcript_variant	MODIFIER	CFAP418-AS1
+8	95975919	C	G	G	intergenic_variant	MODIFIER	
+8	97780125	T	G	G	intron_variant	MODIFIER	LAPTM4B
+8	97809099	G	C	C	intron_variant	MODIFIER	LAPTM4B
+8	99028850	C	A	A	intron_variant&NMD_transcript_variant	MODIFIER	VPS13B
+8	99028874	G	T	T	intron_variant&NMD_transcript_variant	MODIFIER	VPS13B
+8	99059715	T	C	C	intron_variant&NMD_transcript_variant	MODIFIER	VPS13B
+8	99254399	C	A	A	intron_variant&NMD_transcript_variant	MODIFIER	VPS13B
+8	100468575	A	G	G	upstream_gene_variant	MODIFIER	
+8	100506823	C	T	T	downstream_gene_variant	MODIFIER	ANKRD46
+8	101125987	T	C	C	upstream_gene_variant	MODIFIER	
+8	102553677	T	G	G	intron_variant	MODIFIER	ODF1
+8	108537802	A	T	T	intergenic_variant	MODIFIER	
+8	110565901	T	C	C	intergenic_variant	MODIFIER	
+8	112847037	G	C	C	intron_variant	MODIFIER	CSMD3
+8	112936441	C	T	T	intron_variant	MODIFIER	CSMD3
+8	116844948	G	A	A	downstream_gene_variant	MODIFIER	RAD21
+8	118529233	T	G	G	intron_variant	MODIFIER	SAMD12
+8	118878417	A	G	G	intron_variant&non_coding_transcript_variant	MODIFIER	SAMD12-AS1
+8	119568474	A	C	C	intron_variant	MODIFIER	ENPP2
+8	122638113	C	G	G	intron_variant&non_coding_transcript_variant	MODIFIER	LINC01151
+8	123220607	T	G	G	intron_variant	MODIFIER	C8orf76
+8	125069833	C	A	A	intron_variant	MODIFIER	WASHC5
+8	125633338	C	A	A	intergenic_variant	MODIFIER	
+8	128527274	C	G	G	intron_variant&non_coding_transcript_variant	MODIFIER	LINC00824
+8	130636300	G	T	T	intron_variant&non_coding_transcript_variant	MODIFIER	
+8	131371927	C	G	G	intergenic_variant	MODIFIER	
+8	131600037	T	C	C	intergenic_variant	MODIFIER	
+8	131917753	C	G	G	intron_variant	MODIFIER	EFR3A
+8	132682537	A	C	C	downstream_gene_variant	MODIFIER	TMEM71
+8	132739695	G	T	T	intron_variant	MODIFIER	TMEM71
+8	133674203	C	G	G	intron_variant&non_coding_transcript_variant	MODIFIER	LINC03024
+8	136177911	T	G	G	intron_variant&non_coding_transcript_variant	MODIFIER	LINC02055
+8	136177932	G	A	A	intron_variant&non_coding_transcript_variant	MODIFIER	LINC02055
+8	142444758	T	C	C	upstream_gene_variant	MODIFIER	ADGRB1
+8	144523022	A	C	C	3_prime_UTR_variant	MODIFIER	LRRC14
+9	964793	G	C	C	intron_variant	MODIFIER	DMRT1
+9	4703299	T	C	C	intron_variant	MODIFIER	CDC37L1
+9	6887936	C	G	G	intron_variant	MODIFIER	KDM4C
+9	7805893	G	A	A	intron_variant&non_coding_transcript_variant	MODIFIER	DMAC1
+9	8060442	T	C	C	intergenic_variant	MODIFIER	
+9	8218364	C	T	T	intergenic_variant	MODIFIER	
+9	8465464	A	G	G	splice_donor_variant	HIGH	PTPRD
+9	8465487	T	C	C	synonymous_variant	LOW	PTPRD
+9	9693776	T	G	G	intron_variant	MODIFIER	PTPRD
+9	10044637	T	G	G	intron_variant	MODIFIER	PTPRD
+9	10854932	T	C	C	intergenic_variant	MODIFIER	
+9	11492052	A	T	T	intergenic_variant	MODIFIER	
+9	11496055	C	T	T	intergenic_variant	MODIFIER	
+9	11496059	T	G	G	intergenic_variant	MODIFIER	
+9	12730861	T	G	G	intron_variant&non_coding_transcript_variant	MODIFIER	LURAP1L-AS1
+9	12758352	C	G	G	intron_variant&non_coding_transcript_variant	MODIFIER	LURAP1L-AS1
+9	16349246	C	G	G	intron_variant&non_coding_transcript_variant	MODIFIER	LINC03041
+9	17135366	C	T	T	missense_variant	MODERATE	CNTLN
+9	17135388	A	T	T	missense_variant	MODERATE	CNTLN
+9	20672794	A	G	G	intron_variant	MODIFIER	FOCAD
+9	24038312	C	T	T	intergenic_variant	MODIFIER	
+9	24038314	G	C	C	intergenic_variant	MODIFIER	
+9	25474312	T	G	G	intergenic_variant	MODIFIER	
+9	25505744	G	T	T	intergenic_variant	MODIFIER	
+9	26102759	A	G	G	intron_variant&non_coding_transcript_variant	MODIFIER	
+9	26632487	G	T	T	intergenic_variant	MODIFIER	
+9	31479316	A	T	T	intergenic_variant	MODIFIER	
+9	33116962	C	A	A	intron_variant	MODIFIER	B4GALT1
+9	33685836	A	T	T	intron_variant&non_coding_transcript_variant	MODIFIER	PTENP1-AS
+9	37733609	G	A	A	intron_variant	MODIFIER	FRMPD1
+9	38704874	T	C	C	intron_variant	MODIFIER	FAM240B
+9	61573689	C	A	A	intergenic_variant	MODIFIER	
+9	61573695	T	G	G	intergenic_variant	MODIFIER	
+9	61573716	G	T	T	intergenic_variant	MODIFIER	
+9	64096374	T	G	G	intron_variant&non_coding_transcript_variant	MODIFIER	
+9	70583963	T	G	G	intron_variant	MODIFIER	TRPM3
+9	75611441	A	C	C	intergenic_variant	MODIFIER	
+9	80912264	C	T	T	intergenic_variant	MODIFIER	
+9	81774140	T	A	A	intron_variant&non_coding_transcript_variant	MODIFIER	TLE1-DT
+9	82846589	A	C	C	intergenic_variant	MODIFIER	
+9	84743516	A	T	T	intron_variant	MODIFIER	NTRK2
+9	88869199	C	A	A	intergenic_variant	MODIFIER	
+9	89039587	A	C	C	intron_variant	MODIFIER	SHC3
+9	89039591	T	A	A	intron_variant	MODIFIER	SHC3
+9	91482090	G	C	C	intergenic_variant	MODIFIER	
+9	91577055	A	G	G	intron_variant	MODIFIER	ROR2
+9	91577081	T	G	G	intron_variant	MODIFIER	ROR2
+9	92285938	T	G	G	intron_variant	MODIFIER	IARS1
+9	93996686	C	G	G	intergenic_variant	MODIFIER	
+9	94216363	A	C	C	intron_variant&non_coding_transcript_variant	MODIFIER	LINC02603
+9	96177301	G	T	T	intergenic_variant	MODIFIER	
+9	98745711	G	C	C	intron_variant	MODIFIER	ANKS6
+9	98998390	A	C	C	intron_variant	MODIFIER	COL15A1
+9	99944489	T	A	A	intron_variant	MODIFIER	STX17
+9	100435899	T	C	C	intron_variant	MODIFIER	MSANTD3
+9	101271748	T	G	G	intron_variant	MODIFIER	PLPPR1
+9	101389527	C	A	A	upstream_gene_variant	MODIFIER	BAAT
+9	102032548	T	A	A	intergenic_variant	MODIFIER	
+9	102289486	A	G	G	intergenic_variant	MODIFIER	
+9	102559906	C	A	A	intron_variant&non_coding_transcript_variant	MODIFIER	LINC00587
+9	102559907	A	T	T	intron_variant&non_coding_transcript_variant	MODIFIER	LINC00587
+9	103652208	C	A	A	intergenic_variant	MODIFIER	
+9	108333077	T	G	G	intergenic_variant	MODIFIER	
+9	108840840	A	C	C	downstream_gene_variant	MODIFIER	
+9	110282069	C	A	A	intergenic_variant	MODIFIER	
+9	111345670	A	T	T	intergenic_variant	MODIFIER	
+9	111384449	A	G	G	intron_variant	MODIFIER	ECPAS
+9	112275532	A	G	G	intron_variant	MODIFIER	PTBP3
+9	113227229	A	T	T	intron_variant	MODIFIER	SLC31A1
+9	115106095	A	T	T	intron_variant	MODIFIER	TNC
+9	117694820	A	C	C	intergenic_variant	MODIFIER	
+9	118187531	A	C	C	intron_variant&non_coding_transcript_variant	MODIFIER	
+9	118794925	A	T	T	intergenic_variant	MODIFIER	
+9	119794528	T	G	G	intergenic_variant	MODIFIER	
+9	120655285	G	C	C	intron_variant	MODIFIER	MEGF9
+9	123112444	G	C	C	upstream_gene_variant	MODIFIER	MIR600
+9	127359754	A	T	T	intron_variant&NMD_transcript_variant	MODIFIER	GARNL3
+X	4321550	T	G	G	intergenic_variant	MODIFIER	
+X	4596075	A	C	C	intergenic_variant	MODIFIER	
+X	4596096	T	A	A	intergenic_variant	MODIFIER	
+X	5277265	A	G	G	intergenic_variant	MODIFIER	
+X	7536652	C	T	T	intron_variant&NMD_transcript_variant	MODIFIER	STS
+X	7912800	T	A	A	intron_variant	MODIFIER	PNPLA4
+X	7912822	A	G	G	intron_variant	MODIFIER	PNPLA4
+X	8783682	T	C	C	non_coding_transcript_exon_variant	MODIFIER	DRAXINP1
+X	9979137	G	C	C	intergenic_variant	MODIFIER	
+X	10040396	A	C	C	intron_variant	MODIFIER	WWC3
+X	12031810	A	C	C	intron_variant	MODIFIER	FRMPD4
+X	12213296	C	G	G	intron_variant	MODIFIER	FRMPD4
+X	17041368	C	T	T	intron_variant	MODIFIER	REPS2
+X	17080041	T	C	C	intron_variant	MODIFIER	REPS2
+X	20454961	A	C	C	downstream_gene_variant	MODIFIER	RN7SKP183
+X	20569672	C	G	G	intergenic_variant	MODIFIER	
+X	23652795	T	A	A	intergenic_variant	MODIFIER	
+X	25403338	G	A	A	intergenic_variant	MODIFIER	
+X	25464112	A	T	T	intergenic_variant	MODIFIER	
+X	26088619	T	G	G	intergenic_variant	MODIFIER	
+X	27823923	G	A	A	downstream_gene_variant	MODIFIER	MAGEB10
+X	27855126	G	T	T	non_coding_transcript_exon_variant	MODIFIER	
+X	28164284	T	G	G	intergenic_variant	MODIFIER	
+X	28773469	C	A	A	intron_variant	MODIFIER	IL1RAPL1
+X	31341497	A	C	C	intron_variant	MODIFIER	DMD
+X	31700713	G	T	T	intron_variant	MODIFIER	DMD
+X	36345713	T	G	G	intron_variant	MODIFIER	CFAP47
+X	36547356	T	A	A	intergenic_variant	MODIFIER	
+X	38122645	T	A	A	intron_variant	MODIFIER	SYTL5
+X	38581855	A	T	T	intron_variant	MODIFIER	TSPAN7
+X	38581859	A	C	C	intron_variant	MODIFIER	TSPAN7
+X	43036592	T	G	G	intergenic_variant	MODIFIER	
+X	43842872	A	G	G	intron_variant	MODIFIER	MAOB
+X	44426046	T	A	A	intergenic_variant	MODIFIER	
+X	46856307	A	C	C	intron_variant	MODIFIER	RP2
+X	47581265	A	G	G	upstream_gene_variant	MODIFIER	TIMP1
+X	51055864	T	G	G	intergenic_variant	MODIFIER	
+X	51876376	A	G	G	intron_variant	MODIFIER	MAGED1
+X	53089698	A	T	T	upstream_gene_variant	MODIFIER	KANTR
+X	54587300	T	C	C	intron_variant	MODIFIER	GNL3L
+X	54870235	A	T	T	intergenic_variant	MODIFIER	
+X	54901139	C	G	G	intergenic_variant	MODIFIER	
+X	56521228	T	C	C	intergenic_variant	MODIFIER	
+X	56728759	T	G	G	upstream_gene_variant	MODIFIER	NBDY
+X	57032112	C	G	G	intergenic_variant	MODIFIER	
+X	62692355	T	A	A	intergenic_variant	MODIFIER	
+X	63347716	A	T	T	3_prime_UTR_variant	MODIFIER	SPIN4
+X	68901352	A	G	G	intergenic_variant	MODIFIER	
+X	71039476	T	G	G	downstream_gene_variant	MODIFIER	SOCS5P4
+X	71405295	T	C	C	intron_variant	MODIFIER	TAF1
+X	71543016	G	A	A	intron_variant	MODIFIER	OGT
+X	75745397	G	A	A	non_coding_transcript_exon_variant	MODIFIER	TTC3P1
+X	76370251	C	T	T	intergenic_variant	MODIFIER	
+X	76786444	A	G	G	intron_variant&non_coding_transcript_variant	MODIFIER	MIR325HG
+X	78236550	T	G	G	intergenic_variant	MODIFIER	
+X	79983816	A	C	C	intergenic_variant	MODIFIER	
+X	80927154	T	C	C	upstream_gene_variant	MODIFIER	VDAC1P1
+X	80927174	T	A	A	upstream_gene_variant	MODIFIER	VDAC1P1
+X	81305628	G	C	C	intergenic_variant	MODIFIER	
+X	81476156	G	A	A	intron_variant&non_coding_transcript_variant	MODIFIER	
+X	83616200	A	T	T	intergenic_variant	MODIFIER	
+X	83616205	T	G	G	intergenic_variant	MODIFIER	
+X	86916038	G	A	A	intergenic_variant	MODIFIER	
+X	87343558	T	A	A	intergenic_variant	MODIFIER	
+X	89826930	A	G	G	intergenic_variant	MODIFIER	
+X	89826933	A	C	C	intergenic_variant	MODIFIER	
+X	93276502	A	C	C	intergenic_variant	MODIFIER	
+X	93926403	T	TG	G	intergenic_variant	MODIFIER	
+X	95150801	C	T	T	intergenic_variant	MODIFIER	
+X	95150822	G	A	A	intergenic_variant	MODIFIER	
+X	98411765	T	G	G	intergenic_variant	MODIFIER	
+X	100090149	T	C	C	intergenic_variant	MODIFIER	
+X	102709158	T	C	C	upstream_gene_variant	MODIFIER	GPRASP2
+X	104484528	T	C	C	intergenic_variant	MODIFIER	
+X	106148783	A	T	T	intergenic_variant	MODIFIER	
+X	107882849	C	G	G	intron_variant	MODIFIER	MID2
+X	114028303	A	T	T	intron_variant&non_coding_transcript_variant	MODIFIER	XACT
+X	120258219	A	G	G	downstream_gene_variant	MODIFIER	TMEM255A
+X	120737903	T	G	G	downstream_gene_variant	MODIFIER	GLRX5P1
+X	124957908	A	T	T	intron_variant	MODIFIER	TENM1
+X	127741452	G	A	A	intergenic_variant	MODIFIER	
+X	135188840	A	C	C	intron_variant&non_coding_transcript_variant	MODIFIER	
+X	144282241	T	A	A	intergenic_variant	MODIFIER	
+X	145538033	A	C	C	intergenic_variant	MODIFIER	
+X	145642601	A	C	C	intergenic_variant	MODIFIER	
+X	146870105	A	G	G	intron_variant&non_coding_transcript_variant	MODIFIER	
+X	147401579	C	A	A	intergenic_variant	MODIFIER	
+X	150515810	T	C	C	downstream_gene_variant	MODIFIER	MAMLD1
+X	151297580	C	A	A	intergenic_variant	MODIFIER	
+X	151762929	G	C	C	intergenic_variant	MODIFIER	
+Y	3327327	G	A	A	intergenic_variant	MODIFIER	
+Y	4598847	A	C	C	intergenic_variant	MODIFIER	
+Y	7423584	T	G	G	upstream_gene_variant	MODIFIER	RNU6-521P
+Y	13016791	C	G	G	intergenic_variant	MODIFIER	
+Y	16561818	C	G	G	intergenic_variant	MODIFIER	
+Y	17001437	G	A	A	intergenic_variant	MODIFIER	
+Y	17250999	A	G	G	intergenic_variant	MODIFIER	
+KI270736.1	19526	C	T	T	intergenic_variant	MODIFIER	
+KI270744.1	50352	T	C	C	downstream_gene_variant	MODIFIER	U6
+KI270744.1	50372	T	A	A	downstream_gene_variant	MODIFIER	U6
