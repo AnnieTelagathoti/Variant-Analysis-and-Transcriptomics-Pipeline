@@ -46,7 +46,7 @@ The pipeline performs:
 ---
 
 ## Workflow
-'''text
+```text
 FASTQ Files
 ↓
 Quality Control (FastQC / MultiQC)
@@ -60,7 +60,7 @@ Variant Calling (bcftools)
 Variant Annotation (Ensembl VEP)
 ↓
 Biological Interpretation
-'''
+```
 
 ---
 
