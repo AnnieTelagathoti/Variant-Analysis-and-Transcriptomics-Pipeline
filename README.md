@@ -48,17 +48,17 @@ The pipeline performs:
 ## Workflow
 '''text
 FASTQ Files
-    ↓
+↓
 Quality Control (FastQC / MultiQC)
-    ↓
+↓
 Read Alignment (BWA)
-    ↓
+↓
 BAM Sorting & Indexing (SAMtools)
-    ↓
+↓
 Variant Calling (bcftools)
-    ↓
+↓
 Variant Annotation (Ensembl VEP)
-    ↓
+↓
 Biological Interpretation
 '''
 
